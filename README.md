@@ -25,4 +25,3 @@ abstract where available) for each included study.
   
 - The databases searched and the full search strategy are
   described in the Methods section of the manuscript.
-- Study-level extracted data are in `tables.xlsx`.
