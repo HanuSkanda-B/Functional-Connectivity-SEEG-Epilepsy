@@ -1,0 +1,1677 @@
+TY  - JOUR
+TI  - Interictal stereotactic-EEG functional connectivity in refractory focal epilepsies.
+AU  - Lagarde, Stanislas
+AU  - Roehri, Nicolas
+AU  - Lambert, Isabelle
+AU  - Trebuchon, Agnès
+AU  - McGonigal, Aileen
+AU  - Carron, Romain
+AU  - Scavarda, Didier
+AU  - Milh, Mathieu
+AU  - Pizzo, Francesca
+AU  - Colombet, Bruno
+AU  - Giusiano, Bernard
+AU  - Medina Villalon, Samuel
+AU  - Guye, Maxime
+AU  - Bénar, Christian-G.
+AU  - Bartolomei, Fabrice
+T2  - Brain : a journal of neurology
+AB  - Drug-refractory focal epilepsies are network diseases associated with functional connectivity alterations both during ictal and interictal periods. A large  majority of studies on the interictal/resting state have focused on functional  MRI-based functional connectivity. Few studies have used electrophysiology,  despite its high temporal capacities. In particular, stereotactic-EEG is highly  suitable to study functional connectivity because it permits direct intracranial  electrophysiological recordings with relative large-scale sampling. Most previous  studies in stereotactic-EEG have been directed towards temporal lobe epilepsy,  which does not represent the whole spectrum of drug-refractory epilepsies. The  present study aims at filling this gap, investigating interictal functional  connectivity alterations behind cortical epileptic organization and its  association with post-surgical prognosis. To this purpose, we studied a large  cohort of 59 patients with malformation of cortical development explored by  stereotactic-EEG with a wide spatial sampling (76 distinct brain areas were  recorded, median of 13.2 per patient). We computed functional connectivity using  non-linear correlation. We focused on three zones defined by stereotactic-EEG  ictal activity: the epileptogenic zone, the propagation zone and the non-involved  zone. First, we compared within-zone and between-zones functional connectivity.  Second, we analysed the directionality of functional connectivity between these  zones. Third, we measured the associations between functional connectivity  measures and clinical variables, especially post-surgical prognosis. Our study  confirms that functional connectivity differs according to the zone under  investigation. We found: (i) a gradual decrease of the within-zone functional  connectivity with higher values for epileptogenic zone and propagation zone, and  lower for non-involved zones; (ii) preferential coupling between structures of  the epileptogenic zone; (iii) preferential coupling between epileptogenic zone  and propagation zone; and (iv) poorer post-surgical outcome in patients with  higher functional connectivity of non-involved zone (within- non-involved zone,  between non-involved zone and propagation zone functional connectivity). Our work  suggests that, even during the interictal state, functional connectivity is  reinforced within epileptic cortices (epileptogenic zone and propagation zone)  with a gradual organization. Moreover, larger functional connectivity  alterations, suggesting more diffuse disease, are associated with poorer  post-surgical prognosis. This is consistent with computational studies suggesting  that connectivity is crucial in order to model the spatiotemporal dynamics of  seizures.10.1093/brain/awy214_video1awy214media15833456182001.
+CY  - England
+DA  - 2018/10/01/
+PY  - 2018
+DO  - 10.1093/brain/awy214
+VL  - 141
+IS  - 10
+SP  - 2966
+EP  - 2980
+J2  - Brain
+LA  - eng
+SN  - 1460-2156 0006-8950
+KW  - Electroencephalography
+KW  - Humans
+KW  - Stereotaxic Techniques
+KW  - Adult
+KW  - Female
+KW  - Male
+KW  - Young Adult
+KW  - Adolescent
+KW  - Child
+KW  - Child, Preschool
+KW  - Infant
+KW  - Infant, Newborn
+KW  - Nerve Net/physiopathology
+KW  - Brain/*physiopathology
+KW  - Drug Resistant Epilepsy/etiology/*physiopathology
+KW  - Epilepsies, Partial/etiology/*physiopathology
+KW  - Malformations of Cortical Development/complications/physiopathology
+KW  - Neural Pathways/*physiopathology
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Functional connectivity estimated from intracranial EEG predicts surgical outcome in intractable temporal lobe epilepsy.
+AU  - Antony, Arun R.
+AU  - Alexopoulos, Andreas V.
+AU  - González-Martínez, Jorge A.
+AU  - Mosher, John C.
+AU  - Jehi, Lara
+AU  - Burgess, Richard C.
+AU  - So, Norman K.
+AU  - Galán, Roberto F.
+T2  - PloS one
+AB  - This project aimed to determine if a correlation-based measure of functional connectivity can identify epileptogenic zones from intracranial EEG signals, as  well as to investigate the prognostic significance of such a measure on seizure  outcome following temporal lobe lobectomy. To this end, we retrospectively  analyzed 23 adult patients with intractable temporal lobe epilepsy (TLE) who  underwent an invasive stereo-EEG (SEEG) evaluation between January 2009 year and  January 2012. A follow-up of at least one year was required. The primary outcome  measure was complete seizure-freedom at last follow-up. Functional connectivity  between two areas in the temporal lobe that were sampled by two SEEG electrode  contacts was defined as Pearson's correlation coefficient of interictal activity  between those areas. SEEG signals were filtered between 5 and 50 Hz prior to  computing this correlation. The mean and standard deviation of the off diagonal  elements in the connectivity matrix were also calculated. Analysis of the mean  and standard deviation of the functional connections for each patient reveals  that 90% of the patients who had weak and homogenous connections were seizure  free one year after temporal lobectomy, whereas 85% of the patients who had  stronger and more heterogeneous connections within the temporal lobe had  recurrence of seizures. This suggests that temporal lobectomy is ineffective in  preventing seizure recurrence for patients in whom the temporal lobe is  characterized by weakly connected, homogenous networks. This pilot study shows  promising potential of a simple measure of functional brain connectivity to  identify epileptogenicity and predict the outcome of epilepsy surgery.
+CY  - United States
+DA  - 2013///
+PY  - 2013
+DO  - 10.1371/journal.pone.0077916
+VL  - 8
+IS  - 10
+SP  - e77916
+J2  - PLoS One
+LA  - eng
+SN  - 1932-6203
+KW  - Humans
+KW  - Adult
+KW  - Female
+KW  - Male
+KW  - Middle Aged
+KW  - Young Adult
+KW  - Magnetic Resonance Imaging
+KW  - Brain Mapping
+KW  - Adolescent
+KW  - Sensitivity and Specificity
+KW  - Follow-Up Studies
+KW  - *Postoperative Complications
+KW  - Electroencephalography/*methods
+KW  - Epilepsy, Temporal Lobe/physiopathology/*surgery
+KW  - Neural Pathways/*physiology
+KW  - Prognosis
+KW  - Recurrence
+KW  - Support Vector Machine
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Localization of epileptogenic zone based on graph analysis of stereo-EEG.
+AU  - Li, Yong-Hua
+AU  - Ye, Xiao-Lai
+AU  - Liu, Qiang-Qiang
+AU  - Mao, Jun-Wei
+AU  - Liang, Pei-Ji
+AU  - Xu, Ji-Wen
+AU  - Zhang, Pu-Ming
+T2  - Epilepsy research
+AB  - Localization of the epileptogenic zone (EZ) is essential for the successful surgical treatment of medically intractable epilepsy. In the present study,  stereo-EEG (SEEG) recordings were obtained from seven patients underwent  presurgical evaluation for treatment of intractable epilepsy. Partial directed  coherence (PDC) analysis was applied to construct peri-ictal effective  connectivity networks. The graphic measures, in-degree, out-degree and  betweenness centrality, were evaluated to localize the EZ. A receiver operating  characteristic (ROC) analysis was used to quantify the localization accuracy. We  found that the in-degree coincided well with the EZ identified by  epileptologists' visual inspection in all seven patients who had a significant  improvement in seizure outcomes, however, the other two measures were effective  only in some cases. Furthermore, in all seven patients the electrode contact with  the highest in-degree was always located within the EZ identified by  epileptologists' visual inspection. These results indicate that the graph theory  is an effective method to localize the EZ when suitable graphic measures were  chosen. Furthermore, the in-degree was the most effective measure among the three  graphic measures in localizing the EZ when the PDC method was used.
+CY  - Netherlands
+DA  - 2016/12//undefined
+PY  - 2016
+DO  - 10.1016/j.eplepsyres.2016.10.021
+VL  - 128
+SP  - 149
+EP  - 157
+J2  - Epilepsy Res
+LA  - eng
+SN  - 1872-6844 0920-1211
+KW  - Humans
+KW  - Adult
+KW  - Female
+KW  - Male
+KW  - Young Adult
+KW  - Graph theory
+KW  - Brain Mapping
+KW  - Retrospective Studies
+KW  - Treatment Outcome
+KW  - Follow-Up Studies
+KW  - Focal epilepsy
+KW  - Stereo-EEG
+KW  - *Signal Processing, Computer-Assisted
+KW  - Preoperative Care
+KW  - ROC Curve
+KW  - Reproducibility of Results
+KW  - Electrocorticography/*methods
+KW  - Area Under Curve
+KW  - Drug Resistant Epilepsy/diagnosis/*physiopathology/surgery
+KW  - Epileptogenic zone
+KW  - Partial directed coherence
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Degenerate time-dependent network dynamics anticipate seizures in human epileptic brain.
+AU  - Tauste Campo, Adrià
+AU  - Principe, Alessandro
+AU  - Ley, Miguel
+AU  - Rocamora, Rodrigo
+AU  - Deco, Gustavo
+T2  - PLoS biology
+AB  - Epileptic seizures are known to follow specific changes in brain dynamics. While some algorithms can nowadays robustly detect these changes, a clear understanding  of the mechanism by which these alterations occur and generate seizures is still  lacking. Here, we provide crossvalidated evidence that such changes are initiated  by an alteration of physiological network state dynamics. Specifically, our  analysis of long intracranial electroencephalography (iEEG) recordings from a  group of 10 patients identifies a critical phase of a few hours in which  time-dependent network states become less variable ("degenerate"), and this phase  is followed by a global functional connectivity reduction before seizure onset.  This critical phase is characterized by an abnormal occurrence of highly  correlated network instances and is shown to be particularly associated with the  activity of the resected regions in patients with validated postsurgical outcome.  Our approach characterizes preseizure network dynamics as a cascade of 2  sequential events providing new insights into seizure prediction and control.
+CY  - United States
+DA  - 2018/04//undefined
+PY  - 2018
+DO  - 10.1371/journal.pbio.2002580
+VL  - 16
+IS  - 4
+SP  - e2002580
+J2  - PLoS Biol
+LA  - eng
+SN  - 1545-7885 1544-9173
+KW  - Humans
+KW  - Adult
+KW  - Female
+KW  - Male
+KW  - Middle Aged
+KW  - Connectome
+KW  - Electrocorticography
+KW  - Algorithms
+KW  - Follow-Up Studies
+KW  - Prognosis
+KW  - Time Factors
+KW  - Brain/diagnostic imaging/pathology/*physiopathology/surgery
+KW  - Nerve Net/diagnostic imaging/pathology/*physiopathology/surgery
+KW  - Seizures/diagnostic imaging/pathology/*physiopathology/surgery
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Graph Measures of Node Strength for Characterizing Preictal Synchrony in Partial Epilepsy.
+AU  - Courtens, Sandra
+AU  - Colombet, Bruno
+AU  - Trébuchon, Agnès
+AU  - Brovelli, Andrea
+AU  - Bartolomei, Fabrice
+AU  - Bénar, Christian G.
+T2  - Brain connectivity
+AB  - The reference electrophysiological pattern at seizure onset is the "rapid discharge," as visible on intracerebral electroencephalography (EEG). This  discharge typically corresponds to a decrease of synchrony across brain areas. In  contrast, the preictal period can exhibit patterns of increased synchrony, which  can be quantified by network measures. Our objective was to compare preictal  synchrony with a quantification of the rapid discharge as provided by the  epileptogenicity index (EI). We investigated 24 seizures from 12 patients  recorded by stereotaxic EEG (SEEG). Seizures were classified visually as  containing preictal synchrony or not. We computed pairwise nonlinear correlation  (h(2)) across channels in the 8 sec preceding the rapid discharge. The sum of  ingoing and outgoing links (IN and OUT node strength), as well as the sum of all  links (total strength, TOT) were computed for each region. We tested several  filtering schemes, and quantified the capacity of each strength measure to serve  as a detector of regions with high EI values using a receiver operating  characteristic (ROC) analysis. We found that the best correspondence between node  strength and EI was obtained for the OUT and TOT measures, for signals filtered  in the 15-40 Hz band-that is, for the band corresponding to the spiky part of  epileptic discharges. In agreement with these results, we also found that the ROC  results were improved when considering only seizures with visible synchronous  patterns in the preictal period. Our results suggest that measuring strength of  preictal connectivity graphs can bring useful clinical information on the  epileptogenic zone.
+CY  - United States
+DA  - 2016/09//undefined
+PY  - 2016
+DO  - 10.1089/brain.2015.0397
+VL  - 6
+IS  - 7
+SP  - 530
+EP  - 539
+J2  - Brain Connect
+LA  - eng
+SN  - 2158-0022 2158-0014
+KW  - epilepsy
+KW  - functional connectivity
+KW  - Humans
+KW  - Adult
+KW  - Signal Processing, Computer-Assisted
+KW  - Electroencephalography/*methods
+KW  - Brain/*physiopathology
+KW  - Epilepsies, Partial/*physiopathology
+KW  - *Cortical Synchronization
+KW  - graph theory
+KW  - partial seizures
+KW  - stereoelectroencephalography (SEEG)
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Are high frequency oscillations associated with altered network topology in partial epilepsy?
+AU  - van Diessen, Eric
+AU  - Hanemaaijer, Judith I.
+AU  - Otte, Willem M.
+AU  - Zelmann, Rina
+AU  - Jacobs, Julia
+AU  - Jansen, Floor E.
+AU  - Dubeau, François
+AU  - Stam, Cornelis J.
+AU  - Gotman, Jean
+AU  - Zijlmans, Maeike
+T2  - NeuroImage
+AB  - Neurophysiological studies have reported functional network alterations in epilepsy, most consistently in the theta frequency band. Highly interconnected  brain regions (so-called 'hubs') seem to be important in these epileptic  networks. High frequency oscillations (HFOs) in intracranial EEG recordings are  recently discovered biomarkers that can identify the epileptogenic area and are  thought to result from altered neuronal interactions. We studied whether the  epileptogenic zone (identified by HFOs and seizure onset zone) is associated with  pathological hubs. Bilateral depth electrode recordings from the hippocampus and  amygdala were available from twelve patients suspected of temporal lobe epilepsy.  HFOs, classified as ripples (80-250 Hz) and fast ripples (250-500 Hz), and  epileptiform spikes were marked for all patients in a five-minute epoch of  slow-wave sleep. For each channel, we computed hub-measures from a period without  epileptiform spikes and found that the epileptogenic zone was associated with a  decreased hub-value in the theta frequency band. The amount of HFOs, especially  fast ripples, was negatively correlated with the hub-value per channel. Results  from post-hoc analyses of other frequency bands, particularly the broad- and  gamma frequency band, pointed in the same direction as the results for the theta  frequency band. These findings suggest a pathological functional 'isolation' of  the epileptogenic zone in the interictal state.
+CY  - United States
+DA  - 2013/11/15/
+PY  - 2013
+DO  - 10.1016/j.neuroimage.2013.06.031
+VL  - 82
+SP  - 564
+EP  - 573
+J2  - Neuroimage
+LA  - eng
+SN  - 1095-9572 1053-8119
+KW  - Electroencephalography
+KW  - Humans
+KW  - Adult
+KW  - Female
+KW  - Male
+KW  - Middle Aged
+KW  - Young Adult
+KW  - Signal Processing, Computer-Assisted
+KW  - Functional connectivity
+KW  - Graph theory
+KW  - Electrodes, Implanted
+KW  - Temporal lobe epilepsy
+KW  - Nerve Net/*physiopathology
+KW  - Brain/*physiopathology
+KW  - Seizures/physiopathology
+KW  - Epilepsy, Temporal Lobe/*physiopathology
+KW  - High frequency oscillations
+KW  - Network analysis
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Pre-seizure architecture of the local connections of the epileptic focus examined via graph-theory.
+AU  - Vecchio, Fabrizio
+AU  - Miraglia, Francesca
+AU  - Vollono, Catello
+AU  - Fuggetta, Filomena
+AU  - Bramanti, Placido
+AU  - Cioni, Beatrice
+AU  - Rossini, Paolo Maria
+T2  - Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology
+AB  - OBJECTIVE: Epilepsy is characterized by unpredictable and sudden paroxysmal neuronal firing occurrences and sometimes evolving in clinically evident seizure.  To predict seizure event, small-world characteristic in nine minutes before  seizure, divided in three 3-min periods (T0, T1, T2) were investigated. METHODS:  Intracerebral recordings were obtained from 10 patients with drug resistant focal  epilepsy examined by means of stereotactically implanted electrodes; analysis was  focused in a period of low spiking (Baseline) and during two seizures. Networks'  architecture is undirected and weighted. Electrodes' contacts close to epileptic  focus are the vertices, edges are weighted by mscohere (=magnitude squared  coherence). RESULTS: Differences were observed between Baseline and T1 and  between Baseline and T2 in theta band; and between Baseline and T1, Baseline and  T2, and near-significant difference between T0 and T2 in Alpha 2 band. Moreover,  an intra-band index was computed for small worldness as difference between Theta  and Alpha 2. It was found a growing index trend from Baseline to T2. CONCLUSIONS:  Cortical network features a specific pre-seizure architecture which could predict  the incoming epileptic seizure. SIGNIFICANCE: Through this study future  researches could investigate brain connectivity modifications approximating a  clinical seizure also in order to address a preventive therapy.
+CY  - Netherlands
+DA  - 2016/10//undefined
+PY  - 2016
+DO  - 10.1016/j.clinph.2016.07.006
+VL  - 127
+IS  - 10
+SP  - 3252
+EP  - 3258
+J2  - Clin Neurophysiol
+LA  - eng
+SN  - 1872-8952 1388-2457
+KW  - Epilepsy
+KW  - Humans
+KW  - Adult
+KW  - Female
+KW  - Male
+KW  - Alpha Rhythm
+KW  - eLORETA
+KW  - Functional connectivity
+KW  - Graph theory
+KW  - sEEG
+KW  - Seizure
+KW  - Small-world
+KW  - Theta Rhythm
+KW  - Cerebral Cortex/diagnostic imaging/physiopathology
+KW  - Drug Resistant Epilepsy/*physiopathology
+KW  - *Connectome
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Evaluating group interactions in epileptic brain networks by hypergraph and higher-order homophily
+AU  - Li, Z.
+AU  - Cai, Y.
+AU  - Li, X.
+T2  - Journal of Neural Engineering
+AB  - Objective.Group interactions capture cooperative dynamics among neural populations quantitatively, while also enabling precise detection of ensemble-level synchrony patterns and transcending the limitations of node-level relationships. To evaluate higher-order group interactions, we propose the PLASSO-homophily framework using multichannel stereo-electroencephalography (SEEG) recorded from patients with epilepsy.Approach.Specifically, we use phase locking value to improve least absolute shrinkage and selection operator method for constructing hypergraphs. Afterwards, we calculate affinity ratios between brain zones. Finally, we investigate higher-order interactions among different groups from a homophily perspective. The extremal result of strict homophily serves as a crucial theoretical framework for understanding homophily concepts, reflecting the constraints that different groups follow in higher-order interactions.Main results.It is observed that group interactions between seizure onset zones (SOZ), propagation zones (PZ) and non-involved zones (NIZ) present significant distinction across different seizure phases. In particular, the homophily of SOZ reaches a peak point during the seizure and sharply decreases in the post-seizure, with the most statistically significant differences onθandγbands. Furthermore, during the seizure, SOZ-PZ exhibits enhanced coupling while SOZ-NIZ exhibits impaired functional integration. Finally, among three groups, only SOZ exhibits strict monotonic and majority homophily.Significance.By analyzing changes in in-class and out-class connectivity, we quantitatively assess the activity levels and combinatorial constraints of the SOZ, PZ, and NIZ, thereby providing a novel perspective for exploring seizure mechanisms and developing epilepsy treatments. © 2025 IOP Publishing Ltd. All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1088/1741-2552/ae1ea0
+VL  - 22
+IS  - 6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105023210774&doi=10.1088%2F1741-2552%2Fae1ea0&partnerID=40&md5=456343062719b53640f5e29698457ed9
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Striatal interdependencies in focal seizures: Insights from stereoelectroencephalographic functional connectivity analysis
+AU  - Chibany, L.
+AU  - Nicollin, E.
+AU  - Courtin, E.
+AU  - Bar, C.
+AU  - Michel, V.
+AU  - Penchet, G.
+AU  - Aupy, J.
+T2  - Epilepsia
+AB  - Objective: We investigated the interdependency between striatal activity and the electrophysiological dynamics of the cortical epileptogenic zone using intracerebral stereoelectroencephalographic recordings in patients with drug-resistant epilepsy. We performed both qualitative and quantitative analyses of ictal striatal activity and its synchronization with the cerebral cortex to gain deeper insight into the striatal contribution to seizure regulation. Methods: Thirty-one patients were retrospectively included. The Epileptogenicity Index (EI) was computed, high EI values corresponded to structures in the epileptogenic zone (EZ), and brain regions with sustained discharge during the seizure were defined as the propagation zone network (PZN). To study the functional and directed connectivity between the striatum and the broader network, a nonlinear correlation coefficient (h2) and an index Dᵪᵧ that provides quantitative information about the direction of couplings between neuronal populations were computed. Results: We analyzed 31 subjects and 68 seizures. We found that 84% (n = 57) of seizures spread to the ipsilateral striatum. This spread was mainly late during seizure evolution (69.12%, n = 47) and was mostly present in seizures characterized by a focal slow spread pattern (33.82%, n = 23). Striatal epileptogenicity was overall low, with only 4.41% (n = 3) of seizures exhibiting a striatal EI ≥.4. Interestingly, the positive correlation between striatal epileptogenicity and the PZN (r =.4193, p =.0004) indicates that higher striatal epileptogenicity is associated with the recruitment of a greater number of brain regions within the PZN. Moreover, striatal functional connectivity with the broader network was the lowest during the background period and progressively increased during ictal and postictal phases (p <.001), with directed connectivity shifting from the EZ to the striatum in the preictal and termination phases. Significance: These findings provide a framework for future research investigating the potential of basal ganglia-targeted therapies in epilepsy management. © 2025 International League Against Epilepsy.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1111/epi.18510
+VL  - 66
+IS  - 10
+SP  - 3948
+EP  - 3963
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008577637&doi=10.1111%2Fepi.18510&partnerID=40&md5=8eaa5755fb9b704eeb2e40920d494b22
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic alterations of SEEG characteristics during peri-ictal period and localization of seizure onset zone
+AU  - Xu, L.
+AU  - Yang, Y.
+AU  - Tan, Q.
+AU  - Tan, H.
+AU  - Wang, Y.
+AU  - Hou, Z.
+AU  - Shen, J.
+AU  - Li, R.
+AU  - Luo, Y.
+AU  - Zeng, L.
+AU  - Guo, Q.
+AU  - Weng, X.
+AU  - Liang, J.
+T2  - Neurobiology of Disease
+AB  - Background: The evolution in peri-ictal period (from pre-ictal to ictal phase) of seizures contains abundant epileptogenic information, which aids in exploring the mechanism of seizures and localizing the epileptogenic zone (EZ). This study aims to investigate the regulatory mechanisms of seizure and localize EZ by analyzing the dynamic alterations of diverse characteristics during peri-ictal period based on SEEG. Methods: A total of 61 patients with refractory focal epilepsy were included, and each patient underwent SEEG electrodes implantation. The data in the peri-ictal period were selected, and the dynamic alterations of phase-amplitude coupling (MI), connectivity strength (wPLI, DTF), and sample entropy were calculated in each sliding window. Finally, machine learning models were utilized to predict the seizure onset zone (SOZ) and undergo performance evaluation. Results: The MI and inflow intensity of SOZ in each frequency band were significantly higher (p < 0.001) than those of nSOZ, and exhibited an initial increase followed by a decrease after onset. The outflow intensity and sample entropy (except delta band) of SOZ were significantly lower (p < 0.001) than those of nSOZ, which rose first and then fell after onset. The features of the propagation zone lay between those of the SOZ and non-involved zone. Integrating these features with machine learning models effectively localized SOZ, among which XGBoost model had the best performance, its AUC, accuracy, specificity, and sensitivity, and were 0.905, 87.0 %, 87.9 %, and 79.5 % respectively. Conclusions: This study explored the dynamic evolution during the peri-ictal period from multiple perspectives. There were strong control effects both inside and outside the SOZ before seizure onset but decreased later, confirming the existence of regulatory mechanism of seizures. Further subdivision revealed a hierarchical organization of the regulatory model. Combined with machine learning models, multiple features accurately localized the SOZ, providing a new sight for clinical treatment and serving as a reference model. © 2025
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.nbd.2025.106998
+VL  - 213
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105007634580&doi=10.1016%2Fj.nbd.2025.106998&partnerID=40&md5=e982fc65474e9c552c09d3b8018c893e
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Differential functional connectivity of amygdala in drug-resistant temporal lobe epilepsy
+AU  - Aung, T.
+AU  - Tang, L.W.
+AU  - Ho, J.
+AU  - Henry, L.C.
+AU  - Ikegaya, N.
+AU  - Modo, M.
+AU  - González-Martínez, J.
+T2  - Epilepsia
+AB  - Objective: Recent studies highlight the amygdala's crucial role in temporal lobe epilepsy (TLE), particularly in magnetic resonance imaging-negative cases and new TLE subtypes with structural amygdala changes. This study aims to investigate the electrophysiological properties and connectivity patterns of the amygdaloid complex in TLE patients using stereoelectroencephalography (SEEG). Methods: From March 2020 to December 2023, we collected data from nine patients with drug-resistant TLE who underwent SEEG with dual amygdala trajectories: dorsal amygdala (DA) targeting medial and central nuclei, and ventral amygdala (VA) targeting basal and lateral nuclei. We analyzed interictal and ictal activities, focusing on power spectral density, interictal epileptiform discharges (IEDs), and coherence between DA and VA regions and ipsilateral regions of the temporal–limbic network, including the hippocampus, superior temporal gyrus, entorhinal cortex, fusiform gyrus, orbitofrontal cortex, temporal pole, and ventral insula. Results: IEDs were significantly higher in the DA, particularly in patients with epileptogenic zones involving the amygdala. We identified frequency-dependent connectivity patterns between DA and VA with ipsilateral cortical areas of interest during ictal activity. The VA exhibited higher connectivity with the limbic network in a greater number of seizures, particularly with the hippocampal head, entorhinal cortex, fusiform gyrus, and temporal pole in delta and theta frequencies. In contrast, DA connectivity was mainly confined to the hippocampus in theta and high-gamma frequency ranges. Significance: Our findings reveal distinct functional connectivity patterns and potentially divergent roles of DA and VA in TLE. These insights could refine intracranial sampling protocols of the amygdaloid complex, guiding more precise strategies for resection and neuromodulation in TLE patients. © 2025 International League Against Epilepsy.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1111/epi.18317
+VL  - 66
+IS  - 6
+SP  - 1945
+EP  - 1958
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85219691826&doi=10.1111%2Fepi.18317&partnerID=40&md5=ad21d3a945dfda368ee0568bba88bbdf
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - A novel way to use cross-validation to measure connectivity by machine learning allows epilepsy surgery outcome prediction
+AU  - Ivankovic, K.
+AU  - Principe, A.
+AU  - Montoya-Gálvez, J.
+AU  - Manubens-Gil, L.
+AU  - Zucca, R.
+AU  - Villoslada, P.
+AU  - Dierssen, M.
+AU  - Rocamora, R.
+T2  - NeuroImage
+AB  - The rate of success of epilepsy surgery, ensuring seizure-freedom, is limited by the lack of epileptogenicity biomarkers. Previous evidence supports the critical role of functional connectivity during seizure generation to characterize the epileptogenic network (EN). However, EN dynamics is highly variable across patients, hindering the development of diagnostic biomarkers. Without relying on specific connectivity variables, we focused on a general hypothesis that the EN undergoes the greatest magnitude of connectivity change during seizure generation, compared to other brain networks. To test this hypothesis, we developed a novel method for quantifying connectivity change between network states and applied it to identify surgical resection areas. A network state was represented by random snapshots of connectivity within a defined time interval of an intracranial EEG recording. A binary classifier was applied to classify two network states. The classifier generalization performance estimated by cross-validation was employed as a continuous measure of connectivity change. The algorithm generated a network by iteratively adding nodes until the connectivity change magnitude decreased. The resulting network was compared to the surgical resection, and the overlap score was used to predict post-surgical outcomes. The framework was evaluated in a consecutive cohort of 21 patients with a post-surgical follow-up of minimum 3 years. The best overlap between connectivity change networks and resections was obtained at the transition from pre-seizure to seizure (surgical outcome prediction ROC-AUC=90.3 %). However, all patients except one were correctly classified when considering the most informative time intervals. Time intervals proportional to seizure length were more informative than the almost universally used fixed intervals. This study demonstrates that connectivity can be successfully classified with a machine learning analysis and provide information for distinguishing a separate epileptogenic functional network. In summary, the connectivity change analysis could accurately identify epileptogenic networks validated by surgery outcome classification. Connectivity change magnitude at seizure transition could potentially serve as an EN biomarker. The tool provided by this study may aid surgical decision-making. © 2024
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.neuroimage.2024.120990
+VL  - 306
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85214295355&doi=10.1016%2Fj.neuroimage.2024.120990&partnerID=40&md5=449d2c531b185ae202962522d89b6488
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - SEEG-Based Bilateral Seizure Network Analysis for Neurostimulation Treatment
+AU  - Peng, G.
+AU  - Nourani, M.
+AU  - Harvey, J.
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+AB  - Epilepsy patients with drug-resistant seizures emanating from two or more distinct regions of left and right hemispheres are the primary candidates for neurostimulation treatment. Stereo-electroencephalography (SEEG) is a minimally invasive technique to monitor and evaluate brain activities during seizures before stimulator implantation. This work proposes a seizure network modeling method using SEEG to analyze the functional connectivity of epileptogenic zone during bilateral seizures. Network nodes are selected subset of SEEG contact points, and network edges are directed signal correlations calculated from directed transfer function. Based on signal directionality, four connectivity values are extracted to measure the intra- and inter-activities that are within or between the left and right hemispheres, respectively. Statistical difference between connectivity values is used to quantify the seizure impact of each hemisphere. A subset of network nodes is selected from impactful side as stimulation target candidates. Experimental results are validated on ten patients having different seizure types with bilateral onset. Each seizure type has specific connectivity patterns that show different importance from each brain side. Selection of neurostimulation targets from primary side are consistent with clinicians' decision. Relationships are found among connectivity differences, seizure types and stimulation outcomes. Using SEEG signals, we can capture specific connectivity differences associated with bilateral seizure networks. Such differences are related with corresponding neurostimulation targets and stimulating outcomes. The proposed work elucidates the difference of network connectivity for bilateral patients, and assists clinicians to choose the stimulation targets and to predict the potential outcomes. © 2001-2011 IEEE.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/TNSRE.2025.3534121
+VL  - 33
+SP  - 664
+EP  - 674
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85216318126&doi=10.1109%2FTNSRE.2025.3534121&partnerID=40&md5=9607323adaf58c0283fe3e1ea549af5e
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - DynSeizureGAT: Multi-Band Dynamic Graph Attention Network for Interpretable Seizure Detection and Analysis of Drug-Resistant Epilepsy Using SEEG
+AU  - Wang, Y.
+AU  - Guo, J.
+AU  - Jia, Z.
+AU  - Cao, G.
+AU  - Yang, Y.
+AU  - Kang, G.
+AU  - Huang, J.
+T2  - IEEE Journal of Biomedical and Health Informatics
+AB  - The dynamic propagation of epileptic discharges complicates Drug-Resistant Epilepsy (DRE) seizure detection using traditional machine learning methods and Stereotactic Electroencephalography (SEEG). Several challenges remain unresolved in prior studies: (1) incomprehensive representations of epileptic brain network features; (2) lacking of flexible and dynamic mechanisms to learn brain network evolving features; and (3) the absence of model mechanisms interpretation corresponds with seizure mechanisms. In response, we propose a novel multi-band dynamic graph attention network, DynSeizureGAT, to detect and analyze DRE seizures with precision and interpretability. Specifically, a seizure network sequence is first constructed by integrating a multi-band directed transfer function matrix and enhanced epileptic index node features. Second, a dynamic graph attention module is integrated to dynamically weigh the contribution of various spatial scales. Third, spatial-spectral-temporal attention mechanisms enhance the model’s capacity to better characterize and interpret the ictal and interictal states. Extensive experiments are conducted on the large-scale public clinical SEEG dataset (OpenNeuro). The proposed model demonstrates high seizure detection performance, achieving an average of 94.6% accuracy, 93.4% sensitivity, and 96.4% specificity. In addition, the importance of frequency bands and dynamic abnormal connectivity patterns is successfully quantified and visualized, which contributes most to the explainability. Experimental results indicate that DynSeizureGAT demonstrates strong dynamic propagation feature learning capability, corresponding with seizure propagation mechanisms, and is promising to assist DRE epileptogenic zone localization. © 2013 IEEE.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/JBHI.2025.3581613
+VL  - 29
+IS  - 11
+SP  - 8073
+EP  - 8085
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105009100439&doi=10.1109%2FJBHI.2025.3581613&partnerID=40&md5=af94d7e7d7f17332c92128472671f41c
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Impact of post-traumatic stress disorder on epileptogenic networks: a functional connectivity study
+AU  - Soncin, L.-D.
+AU  - Simula, S.
+AU  - Hemmer, N.
+AU  - Mourre, H.
+AU  - Arthuis, M.
+AU  - Makhalova, J.
+AU  - Bénar, C.-G.
+AU  - Faure, S.
+AU  - Bartolomei, F.
+T2  - Scientific Reports
+AB  - Post-traumatic stress disorder (PTSD) is more common in patients with drug-resistant epilepsy. Some of these patients experience PTSD due to early psychotraumatic events. This study aims to assess the influence of PTSD on interictal functional connectivity using stereoelectroencephalography (SEEG) recordings in patients with temporal lobe DRE (TDRE). Two groups were considered: TDRE patients with PTSD (PTSD+, N = 11) and TDRE patients without PTSD (PTSD-, N = 12). All subjects had questionnaires measuring anxiety, depression, PTSD symptoms related to seizures, a diagnostic PTSD questionnaire, and a childhood trauma questionnaire. Resting state functional connectivity (FC) was evaluated on SEEG signals to analyze network characteristics. We mainly focused on brain regions involved in PTSD (amygdala, orbitofrontal cortex, hippocampus, insula, rhinal cortex, anterior cingulate cortex). Results revealed increased FC in PTSD + subjects in the brain regions involved in PTSD, but only in the hemisphere ipsilateral to the epileptogenic zone. In contrast, a decreased FC in the contralateral hemisphere was observed in the hippocampus. These findings support the existence of a PTSD-epilepsy-reinforced network, leading to FC alterations dependent on the epilepsy side and the region. Our study is the first to offer insights into the intricate dynamic linking PTSD and epilepsy and highlights the need for accounting for the influence of comorbidities on epileptogenic networks. © The Author(s) 2024.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1038/s41598-024-81164-w
+VL  - 14
+IS  - 1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85213721446&doi=10.1038%2Fs41598-024-81164-w&partnerID=40&md5=b34f8cd6c76d4edec3117ea75d843565
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - A comparative study between a power and a connectivity sEEG biomarker for seizure-onset zone identification in temporal lobe epilepsy
+AU  - Vila-Vidal, M.
+AU  - Craven-Bartle Corominas, F.
+AU  - Gilson, M.
+AU  - Zucca, R.
+AU  - Principe, A.
+AU  - Rocamora, R.
+AU  - Deco, G.
+AU  - Tauste Campo, A.T.
+T2  - Journal of Neuroscience Methods
+AB  - Background: Ictal stereo-encephalography (sEEG) biomarkers for seizure onset zone (SOZ) localization can be classified depending on whether they target abnormalities in signal power or functional connectivity between signals, and they may depend on the frequency band and time window at which they are estimated. New method: This work aimed to compare and optimize the performance of a power and a connectivity-based biomarker to identify SOZ contacts from ictal sEEG recordings. To do so, we used a previously introduced power-based measure, the normalized mean activation (nMA), which quantifies the ictal average power activation. Similarly, we defined the normalized mean strength (nMS), to quantify the ictal mean functional connectivity of every contact with the rest. The optimal frequency bands and time windows were selected based on optimizing AUC and F2-score. Results: The analysis was performed on a dataset of 67 seizures from 10 patients with pharmacoresistant temporal lobe epilepsy. Our results suggest that the power-based biomarker generally performs better for the detection of SOZ than the connectivity-based one. However, an equivalent performance level can be achieved when both biomarkers are independently optimized. Optimal performance was achieved in the beta and lower-gamma range for the power biomarker and in the lower- and higher-gamma range for connectivity, both using a 20 or 30 s period after seizure onset. Conclusions: The results of this study highlight the importance of this optimization step over frequency and time windows when comparing different SOZ discrimination biomarkers. This information should be considered when training SOZ classifiers on retrospective patients’ data for clinical applications. © 2024 The Author(s)
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.jneumeth.2024.110238
+VL  - 411
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202182072&doi=10.1016%2Fj.jneumeth.2024.110238&partnerID=40&md5=1959d27c452c1d273e1a6ebf0423fdbe
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - The interictal suppression hypothesis is the dominant differentiator of seizure onset zones in focal epilepsy
+AU  - Doss, D.J.
+AU  - Shless, J.S.
+AU  - Bick, S.K.
+AU  - Makhoul, G.S.
+AU  - Negi, A.S.
+AU  - Bibro, C.E.
+AU  - Rashingkar, R.
+AU  - Gummadavelli, A.
+AU  - Chang, C.
+AU  - Gallagher, M.J.
+AU  - Naftel, R.P.
+AU  - Reddy, S.B.
+AU  - Williams Roberson, S.W.
+AU  - Morgan, V.L.
+AU  - Johnson, G.W.
+AU  - Englot, D.J.
+T2  - Brain
+AB  - Successful surgical treatment of drug-resistant epilepsy traditionally relies on the identification of seizure onset zones (SOZs). Connectome-based analyses of electrographic data from stereo electroencephalography (SEEG) may empower improved detection of SOZs. Specifically, connectome-based analyses based on the interictal suppression hypothesis posit that when the patient is not having a seizure, SOZs are inhibited by non-SOZs through high inward connectivity and low outward connectivity. However, it is not clear whether there are other motifs that can better identify potential SOZs. Thus, we sought to use unsupervised machine learning to identify network motifs that elucidate SOZs and investigate if there is another motif that outperforms the ISH. Resting-state SEEG data from 81 patients with drug-resistant epilepsy undergoing a pre-surgical evaluation at Vanderbilt University Medical Center were collected. Directed connectivity matrices were computed using the alpha band (8-13 Hz). Principal component analysis (PCA) was performed on each patient's connectivity matrix. Each patient's components were analysed qualitatively to identify common patterns across patients. A quantitative definition was then used to identify the component that most closely matched the observed pattern in each patient. A motif characteristic of the interictal suppression hypothesis (high-inward and low-outward connectivity) was present in all individuals and found to be the most robust motif for identification of SOZs in 64/81 (79%) patients. This principal component demonstrated significant differences in SOZs compared to non-SOZs. While other motifs for identifying SOZs were present in other patients, they differed for each patient, suggesting that seizure networks are patient specific, but the ISH is present in nearly all networks. We discovered that a potentially suppressive motif based on the interictal suppression hypothesis was present in all patients, and it was the most robust motif for SOZs in 79% of patients. Each patient had additional motifs that further characterized SOZs, but these motifs were not common across all patients. This work has the potential to augment clinical identification of SOZs to improve epilepsy treatment. © The Author(s) 2024.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1093/brain/awae189
+VL  - 147
+IS  - 9
+SP  - 3009
+EP  - 3017
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203205088&doi=10.1093%2Fbrain%2Fawae189&partnerID=40&md5=53ecdf50ee8daf5b95a54827ff99fcbe
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Network signatures define consciousness state during focal seizures
+AU  - Doss, D.J.
+AU  - Johnson, G.W.
+AU  - Makhoul, G.S.
+AU  - Rashingkar, R.
+AU  - Shless, J.S.
+AU  - Bibro, C.E.
+AU  - Paulo, D.L.
+AU  - Gummadavelli, A.
+AU  - Ball, T.J.
+AU  - Reddy, S.B.
+AU  - Naftel, R.P.
+AU  - Haas, K.F.
+AU  - Dawant, B.M.
+AU  - Constantinidis, C.
+AU  - Williams Roberson, S.W.
+AU  - Bick, S.K.
+AU  - Morgan, V.L.
+AU  - Englot, D.J.
+T2  - Epilepsia
+AB  - Objective: Epilepsy is a common neurological disorder affecting 1% of the global population. Loss of consciousness in focal impaired awareness seizures (FIASs) and focal-to-bilateral tonic–clonic seizures (FBTCSs) can be devastating, but the mechanisms are not well understood. Although ictal activity and interictal connectivity changes have been noted, the network states of focal aware seizures (FASs), FIASs, and FBTCSs have not been thoroughly evaluated with network measures ictally. Methods: We obtained electrographic data from 74 patients with stereoelectroencephalography (SEEG). Sliding window band power, functional connectivity, and segregation were computed on preictal, ictal, and postictal data. Five-minute epochs of wake, rapid eye movement sleep, and deep sleep were also extracted. Connectivity of subcortical arousal structures was analyzed in a cohort of patients with both SEEG and functional magnetic resonance imaging (fMRI). Given that custom neuromodulation of seizures is predicated on detection of seizure type, a convolutional neural network was used to classify seizure types. Results: We found that in the frontoparietal association cortex, an area associated with consciousness, both consciousness-impairing seizures (FIASs and FBTCSs) and deep sleep had increases in slow wave delta (1–4 Hz) band power. However, when network measures were employed, we found that only FIASs and deep sleep exhibited an increase in delta segregation and a decrease in gamma segregation. Furthermore, we found that only patients with FIASs had reduced subcortical-to-neocortical functional connectivity with fMRI versus controls. Finally, our deep learning network demonstrated an area under the curve of.75 for detecting consciousness-impairing seizures. Significance: This study provides novel insights into ictal network measures in FASs, FIASs, and FBTCSs. Importantly, although both FIASs and FBTCSs result in loss of consciousness, our results suggest that ictal network changes in FIASs uniquely resemble those that occur during deep sleep. Our results may inform novel neuromodulation strategies for preservation of consciousness in epilepsy. © 2024 The Author(s). Epilepsia published by Wiley Periodicals LLC on behalf of International League Against Epilepsy.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1111/epi.18074
+VL  - 65
+IS  - 9
+SP  - 2686
+EP  - 2699
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199806513&doi=10.1111%2Fepi.18074&partnerID=40&md5=0b71214774ae7a758674929ea399d718
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Localization of epileptogenic zone based on time-varying effective networks
+AU  - Yin, N.
+AU  - Han, Y.
+AU  - Wang, L.
+AU  - Yang, F.
+AU  - Li, J.
+AU  - Xu, G.
+T2  - Epilepsy Research
+AB  - Surgical resection of the epileptogenic zone (EZ) is an effective method for treating drug-resistant epilepsy. At present, the accuracy of EZ localization needs to be further improved. The characteristics of graph theory based on partial directed coherence networks have been applied to the localization of EZ, but the application of network control theory to effective networks to locate EZ is rarely reported. In this study, the method of partial directed coherence analysis was utilized to construct the time-varying effective brain networks of stereo-electroencephalography (SEEG) signals from 20 seizures in 12 patients. Combined with graph theory and network control theory, the differences in network characteristics between epileptogenic and non-epileptogenic zones during seizures were analyzed. We also used dung beetle optimized support vector machine classification model to evaluate the localization effect of EZ based on brain network characteristics of graph theory and controllability. The results showed that the classification of the average controllability feature was the best, and the area under the receiver operating characteristic (ROC) curve (AUC) was 0.9505, which is 1.32 % and 1.97 % higher than the traditional methods. The AUC value increased to 0.9607 after integrating the average controllability with other features. This study proved the effectiveness of controllability characteristic in identifying the EZ and provided a theoretical basis for the clinical application of network controllability in the EZ. © 2024 Elsevier B.V.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.eplepsyres.2024.107409
+VL  - 205
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198315164&doi=10.1016%2Fj.eplepsyres.2024.107409&partnerID=40&md5=fd06477560141be3db7164498649f46d
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Measurable transitions during seizures in intracranial EEG: A stereoelectroencephalography and SPECT study
+AU  - Krishnan, B.
+AU  - Tousseyn, S.
+AU  - Taylor, K.
+AU  - Wu, G.
+AU  - Serletis, D.
+AU  - Najm, I.
+AU  - Bulacio, J.
+AU  - Alexopoulos, A.V.
+T2  - Clinical Neurophysiology
+AB  - Objective: Ictal Single Photon Emission Computed Tomography (SPECT) and stereo-electroencephalography (SEEG) are diagnostic techniques used for the management of patients with drug-resistant focal epilepsies. While hyperperfusion patterns in ictal SPECT studies reveal seizure onset and propagation pathways, the role of ictal hypoperfusion remains poorly understood. The goal of this study was to systematically characterize the spatio-temporal information flow dynamics between differently perfused brain regions using stereo-EEG recordings. Methods: We identified seizure-free patients after resective epilepsy surgery who had prior ictal SPECT and SEEG investigations. We estimated directional connectivity between the epileptogenic-zone (EZ), non-resected areas of hyperperfusion, hypoperfusion, and baseline perfusion during the interictal, preictal, ictal, and postictal periods. Results: Compared to the background, we noted significant information flow (1) during the preictal period from the EZ to the baseline and hyperperfused regions, (2) during the ictal onset from the EZ to all three regions, and (3) during the period of seizure evolution from the area of hypoperfusion to all three regions. Conclusions: Hypoperfused brain regions were found to indirectly interact with the EZ during the ictal period. Significance: Our unique study, combining intracranial electrophysiology and perfusion imaging, presents compelling evidence of dynamic changes in directional connectivity between brain regions during the transition from interictal to ictal states. © 2024 International Federation of Clinical Neurophysiology
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.clinph.2024.02.022
+VL  - 161
+SP  - 80
+EP  - 92
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186989548&doi=10.1016%2Fj.clinph.2024.02.022&partnerID=40&md5=7e571b8113f900bc6e92fe396f6baaac
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Stereo-EEG–based ictal functional connectivity in patients with periventricular nodular heterotopia–related epilepsy
+AU  - Zanello, M.
+AU  - Garnier, E.
+AU  - Carron, R.
+AU  - Jegou, A.
+AU  - Lagarde, S.
+AU  - Makhalova, J.
+AU  - Medina, S.
+AU  - Bénar, C.-G.
+AU  - Bartolomei, F.
+AU  - Pizzo, F.
+T2  - Epilepsia
+AB  - Nodular heterotopia (NH)–related drug-resistant epilepsy is challenging due to the deep location of the NH and the complexity of the underlying epileptogenic network. Using ictal stereo-electroencephalography (SEEG) and functional connectivity (FC) analyses in 14 patients with NH-related drug-resistant epilepsy, we aimed to determine the leading structure during seizures. For this purpose, we compared node IN and OUT strength between bipolar channels inside the heterotopia and inside gray matter, at the group level and at the individual level. At seizure onset, the channels within NH belonging to the epileptogenic and/or propagation network showed higher node OUT-strength than the channels within the gray matter (p =.03), with higher node OUT-strength than node IN-strength (p =.03). These results are in favor of a “leading” role of NH during seizure onset when involved in the epileptogenic- or propagation-zone network (50% of patients). However, when looking at the individual level, no significant difference between NH and gray matter was found, except for one patient (in two of three seizures). This result confirms the heterogeneity and the complexity of the epileptogenic network organization in NH and the need for SEEG exploration to characterize more precisely patient-specific epileptogenic network organization. © 2024 International League Against Epilepsy.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1111/epi.17891
+VL  - 65
+IS  - 4
+SP  - e47
+EP  - e54
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185286279&doi=10.1111%2Fepi.17891&partnerID=40&md5=7b5e8f12d2dd426f804d202cab6894c9
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Exploring the propagation pathway in individual patients with epilepsy: A stepwise effective connection approach
+AU  - Sun, J.
+AU  - Niu, Y.
+AU  - Wang, C.
+AU  - Dong, Y.
+AU  - Wang, B.
+AU  - Wei, J.
+AU  - Xiang, J.
+AU  - Ma, J.
+T2  - Biomedical Signal Processing and Control
+AB  - Objective: The unclear propagation pathway of seizures is one of the main reasons for failure of surgical treatment, and the propagation process involves the directional brain networks. However, few network analysis techniques have successfully traced specific seizure propagation pathways. This study proposed a stepwise transfer entropy (STE) approach to describe the propagation of effective connections in brain networks. Methods: The proposed STE technique is applied to stereoelectroencephalography (SEEG) data collected from patients with epilepsy, which can identify characteristic regions connected to specific seed brain regions at different link-step levels. Importantly, the underlying TE-based network construction method can accurately obtain electrode-to-electrode connections, and the stepwise approach can capture the interactions between electrodes at the connection level. Finally, simulation and clinical data were used to evaluate the STE approach according to the similarity, confusion matrix, accuracy and recall. Results: We used three datasets: a simulation dataset, a clinical dataset, and a public dataset. We compared the results of different network construction methods with multiple datasets, and the STE approach successfully captured node changes in epilepsy patients, effectively identified early and late propagation nodes, and determined the propagation pathway. Moreover, the STE approach is superior to other methods in all evaluation indices, achieving 97.9% accuracy and 0.93 similarity. Significance: Compared with the existing methods, the STE approach has significant advantages in accurately tracking propagation pathways. Moreover, the STE approach is simple and quickly performs calculations, making it an easy-to-use promising method for determining propagation pathways in clinical settings. © 2023 The Author(s)
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.bspc.2023.105811
+VL  - 90
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179454248&doi=10.1016%2Fj.bspc.2023.105811&partnerID=40&md5=623b28d46bb7701e566e5ae5c18d5604
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Network coupling and surgical treatment response in temporal lobe epilepsy: A proof-of-concept study
+AU  - Chang, A.J.
+AU  - Roth, R.W.
+AU  - Gong, R.
+AU  - Gross, R.E.
+AU  - Harmsen, I.
+AU  - Parashos, A.
+AU  - Revell, A.
+AU  - Davis, K.A.
+AU  - Bonilha, L.
+AU  - Gleichgerrcht, E.
+T2  - Epilepsy and Behavior
+AB  - Objective: This proof-of-concept study aimed to examine the overlap between structural and functional activity (coupling) related to surgical response. Methods: We studied intracranial rest and ictal stereoelectroencephalography (sEEG) recordings from 77 seizures in thirteen participants with temporal lobe epilepsy (TLE) who subsequently underwent resective/laser ablation surgery. We used the stereotactic coordinates of electrodes to construct functional (sEEG electrodes) and structural connectomes (diffusion tensor imaging). A Jaccard index was used to assess the similarity (coupling) between structural and functional connectivity at rest and at various intraictal timepoints. Results: We observed that patients who did not become seizure free after surgery had higher connectome coupling recruitment than responders at rest and during early and mid seizure (and visa versa). Significance: Structural networks provide a backbone for functional activity in TLE. The association between lack of seizure control after surgery and the strength of synchrony between these networks suggests that surgical intervention aimed to disrupt these networks may be ineffective in those that display strong synchrony. Our results, combined with findings of other groups, suggest a potential mechanism that explains why certain patients benefit from epilepsy surgery and why others do not. This insight has the potential to guide surgical planning (e.g., removal of high coupling nodes) following future research. © 2023 Elsevier Inc.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.yebeh.2023.109503
+VL  - 149
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175737860&doi=10.1016%2Fj.yebeh.2023.109503&partnerID=40&md5=c763a567ad65eda48a2a3a2b6fe829ed
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic evolution of the anterior cingulate-insula network during seizures
+AU  - Yang, Y.
+AU  - Chen, D.
+AU  - Wang, J.
+AU  - Wang, J.
+AU  - Yan, Z.
+AU  - Deng, Q.
+AU  - Zhang, L.
+AU  - Luan, G.
+AU  - Wang, M.
+AU  - Li, T.
+T2  - CNS Neuroscience and Therapeutics
+AB  - Objectives: In physiological situations, the anterior cingulate cortex (ACC) and anterior insular cortex (AIC) are prone to coactivation. The functional connectivity and interaction between ACC and AIC in the context of epilepsy remain unclear. This study aimed to investigate the dynamic coupling between these two brain regions during seizures. Methods: Patients who underwent stereoelectroencephalography (SEEG) recording were included in this study. The SEEG data were visually inspected and quantitatively analyzed. The narrowband oscillations and aperiodic components at seizure onset were parameterized. The frequency-specific non-linear correlation analysis was applied to the functional connectivity. The excitation/inhibition ratio (E:I ratio) reflected by the aperiodic slope was performed to evaluate the excitability. Results: Twenty patients were included in the study, with 10 diagnosed with anterior cingulate epilepsy and 10 with anterior insular epilepsy. In both types of epilepsy, the correlation coefficient (h2) between the ACC and AIC at seizure onset exhibited a significantly higher value than that during interictal and preictal periods (p < 0.05). The direction index (D) showed a significant increase at seizure onset, serving as an indicator for the direction of information flow between these two brain regions with up to 90% accuracy. The E:I ratio increased significantly at seizure onset, with the seizure-onset zone (SOZ) demonstrating a more pronounced increase compared to non-SOZ (p < 0.05). For seizures originating from AIC, the E:I ratio was significantly higher in the AIC than in the ACC (p = 0.0364). Conclusions: In the context of epilepsy, the ACC and AIC are dynamically coupled during seizures. The functional connectivity and excitability exhibit a significant increase at seizure onset. By analyzing connectivity and excitability, the SOZ in ACC and AIC can be identified. The direction index (D) serves as an indicator for the direction of information flow from SOZ to non-SOZ. Notably, the excitability of SOZ changes more significantly than that of non-SOZ. © 2023 The Authors. CNS Neuroscience & Therapeutics published by John Wiley & Sons Ltd.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1111/cns.14310
+VL  - 29
+IS  - 12
+SP  - 3901
+EP  - 3912
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163106220&doi=10.1111%2Fcns.14310&partnerID=40&md5=f388411a71e8999ddd9a30ce717c3518
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Localizing epileptogenic zones with high-frequency oscillations and directed connectivity
+AU  - Li, Z.
+AU  - Zhang, H.
+AU  - Niu, S.
+AU  - Xing, Y.
+T2  - Seizure
+AB  - Purpose: Precise localization of the epileptogenic zone (EZ) is essential for epilepsy surgery. Existing methods often fail to detect slow onset patterns or similar neural activities presented in the recorded signals. To address this issue, we propose a new measure to quantify epileptogenicity, i.e., the connectivity high-frequency epileptogenicity index (cHFEI). Methods: The cHFEI method combines directed connectivity and high-frequency oscillations (HFOs) to measure the epileptogenicity of regions involved in a brain network. By applying this method to stereoelectroencephalography (SEEG) recordings of 49 seizures in 20 patients, we calculated the accuracy, sensitivity, and precision with a visually identified epileptogenic zone as a reference. The performance was evaluated by the confusion matrix and the area under the receiver operating characteristic (ROC) curve. Results: Epileptic network estimation based on cHFEI successfully distinguished brain regions involved in seizure onset from the propagation network. Moreover, cHFEI outperformed other existing detection methods in the estimation of EZs in all patients, with an average area under the ROC curve of 0.88 and an accuracy of 0.85. Conclusions: cHFEI can characterize EZ in a robust manner despite various seizure onset patterns and has potential application in epilepsy therapy. © 2023 British Epilepsy Association
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.seizure.2023.07.013
+VL  - 111
+SP  - 9
+EP  - 16
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165251002&doi=10.1016%2Fj.seizure.2023.07.013&partnerID=40&md5=b4ca7d5e641c527870af893aa1c17f1c
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - SEEG-based reevaluation of epileptogenic networks and the predictive role for reoperation in MTLE patients with surgical failure
+AU  - Xu, K.
+AU  - Yang, X.
+AU  - Zhou, J.
+AU  - Guan, Y.
+AU  - Zhao, M.
+AU  - Wang, M.
+AU  - Wang, J.
+AU  - Li, T.
+AU  - Wang, X.
+AU  - Luan, G.
+T2  - Epilepsia Open
+AB  - Objective: Approximately 20%–30% of mesial temporal lobe epilepsy (MTLE) patients got unfavorable seizure control after surgery, and there was a discrepancy about the reasons for the surgical failure. The functional connectivity (FC) patterns obtained from stereo-electroencephalography (SEEG) reveal information about the dynamics of the epileptic brain and the added value of extracting information that was not identifiable in the SEEG data using FC analysis. This study aims to find out the patterns of the potential epileptogenic network of failure patients and the electrophysiological predictors of reoperation. Methods: From January 2012 to December 2019, the MTLE patients with surgical failure were reviewed, and all patients underwent SEEG-guided reoperation. The epileptogenic network was quantified by calculating FC indicators, including phase slope index (PSI), mutual information (MI) strength, imaginary coherence (icoh), and Granger causality. Results: Ten patients with 13 seizures were included in the analysis, and 7 of them achieved a favorable outcome after the SEEG-guided reoperation. The surgical zone (SZ) with a favorable prognosis showed greater outward information flow than the non-SZ, whereas the SZ with an unfavorable prognosis showed greater inward information flow. The recurrent patients with favorable prognosis had strong connectivity between the posterior hippocampus, temporal neocortex, and insula, whereas the patients with unfavorable prognosis showed strong functional connectivity between the insula and temporal–parietal-occipital junction. The power spectrum of patients with favorable prognosis was significantly lower than that of patients with unfavorable prognosis, especially showing a more oscillation power of low frequency. Significance: The SEEG-guided reoperation could achieve favorable seizure control outcomes for recurrent patients. The FCs were a potential indicator to help construct the temporal epileptic network and predictor for the reoperative prognosis in the recurrent patients. © 2023 The Authors. Epilepsia Open published by Wiley Periodicals LLC on behalf of International League Against Epilepsy.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1002/epi4.12743
+VL  - 8
+IS  - 3
+SP  - 846
+EP  - 857
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85156215496&doi=10.1002%2Fepi4.12743&partnerID=40&md5=584f97f1550e6e520a3af81fa234a0c6
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Ictal EEG desynchronization during low-voltage fast activity for prediction of surgical outcomes in focal epilepsy
+AU  - Hu, L.
+AU  - Xiong, K.
+AU  - Ye, L.
+AU  - Yang, Y.
+AU  - Chen, C.
+AU  - Wang, S.
+AU  - Ding, Y.
+AU  - Wang, Z.
+AU  - Ming, W.
+AU  - Zheng, Z.
+AU  - Jiang, H.
+AU  - Li, H.
+AU  - Zhu, J.
+AU  - Xu, C.
+AU  - Wang, Y.
+AU  - Ding, M.
+AU  - Chen, Z.
+AU  - Wu, Y.
+AU  - Wang, S.
+T2  - Journal of Neurosurgery
+AB  - OBJECTIVE The authors investigated alterations in functional connectivity (FC) and EEG power during ictal onset patterns of low-voltage fast activity (LVFA) in drug-resistant focal epilepsy. They hypothesized that such changes would be useful to classify epilepsy surgical outcomes. METHODS In a cohort of 79 patients with drug-resistant focal epilepsy who underwent stereoelectroencephalography (SEEG) evaluation as well as resective surgery, FC changes during the peri-LVFA period were measured using nonlinear regression (h2) and power spectral properties within/between three regions: the seizure onset zone (SOZ), early propagation zone (PZ), and noninvolved zone (NIZ). Desynchronization and power desynchronization h2 indices were calculated to assess the degree of EEG desynchronization during LVFA. Multivariate logistic regression was employed to control for confounding factors. Finally, receiver operating characteristic curves were generated to evaluate the performance of desynchronization indices in predicting surgical outcome. RESULTS Fifty-three patients showed ictal LVFA and distinct zones of the SOZ, PZ, and NIZ. Among them, 39 patients (73.6%) achieved seizure freedom by the final follow-up. EEG desynchronization, measured by h2 analysis, was found in the seizure-free group during LVFA: FC decreased within the SOZ and between regions compared with the pre-LVFA and post-LVFA periods. In contrast, the non–seizure-free group showed no prominent EEG desynchronization. The h2 desynchronization index, but not the power desynchronization index, enabled classification of seizure-free versus non–seizure-free patients after resective surgery. CONCLUSIONS EEG desynchronization during the peri-LVFA period, measured by within-zone and between-zone h2 analysis, may be helpful for identifying patients with favorable postsurgical outcomes and also may potentially improve epileptogenic zone identification in the future. ©AANS 2023, except where prohibited by US copyright law.
+DA  - 2023///
+PY  - 2023
+DO  - 10.3171/2022.11.JNS221469
+VL  - 139
+IS  - 1
+SP  - 238
+EP  - 247
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164229471&doi=10.3171%2F2022.11.JNS221469&partnerID=40&md5=7f6425fe2aaaffb36ae9f1deca36eb0b
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Pre-ictal fluctuation of EEG functional connectivity discriminates seizure phenotypes in mesial temporal lobe epilepsy
+AU  - Ye, H.
+AU  - He, C.
+AU  - Hu, W.
+AU  - Xiong, K.
+AU  - Hu, L.
+AU  - Chen, C.
+AU  - Xu, S.
+AU  - Xu, C.
+AU  - Wang, Y.
+AU  - Ding, Y.
+AU  - Wu, Y.
+AU  - Zhang, K.
+AU  - Wang, S.
+AU  - Wang, S.
+T2  - Clinical Neurophysiology
+AB  - Objective: We explored whether quantifiable differences between clinical seizures (CSs) and subclinical seizures (SCSs) occur in the pre-ictal state. Methods: We analyzed pre-ictal stereo-electroencephalography (SEEG) retrospectively across mesial temporal lobe epilepsy patients with recorded CSs and SCSs. Power spectral density and functional connectivity (FC) were quantified within and between the seizure onset zone (SOZ) and the early propagation zone (PZ), respectively. To evaluate the fluctuation of neural connectivity, FC variability was computed. Measures were further verified by a logistic regression model to evaluate their classification potentiality through the area under the receiver-operating-characteristics curve (AUC). Results: Fifty-four pre-ictal SEEG epochs (27 CSs and 27 SCSs) were selected among 14 patients. Within the SOZ, pre-ictal FC variability of CSs was larger than SCSs in 1–45 Hz during 30 seconds before seizure onset. Pre-ictal FC variability between the SOZ and PZ was larger in SCSs than CSs in 55–80 Hz within 1 minute before onset. Using these two variables, the logistic regression model achieved an AUC of 0.79 when classifying CSs and SCSs. Conclusions: Pre-ictal FC variability within/between epileptic zones, not signal power or FC value, distinguished SCSs from CSs. Significance: Pre-ictal epileptic network stability possibly marks seizure phenotypes, contributing insights into ictogenesis and potentially helping seizure prediction. © 2023 International Federation of Clinical Neurophysiology
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.clinph.2023.05.004
+VL  - 151
+SP  - 107
+EP  - 115
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160644978&doi=10.1016%2Fj.clinph.2023.05.004&partnerID=40&md5=680d4ea53c48ff3bd5204428eec7bf6b
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Changes in local and network brain activity after stereotactic thermocoagulation in patients with drug-resistant epilepsy
+AU  - Simula, S.
+AU  - Garnier, E.
+AU  - Contento, M.
+AU  - Pizzo, F.
+AU  - Makhalova, J.
+AU  - Lagarde, S.
+AU  - Bénar, C.-G.
+AU  - Bartoloméi, F.
+T2  - Epilepsia
+AB  - Objective: Stereoelectroencephalography-guided radiofrequency thermocoagulation (SEEG-guided RF-TC) aims to reduce seizure frequency by modifying epileptogenic networks through local thermocoagulative lesions. Although RF-TC is hypothesized to functionally modify brain networks, reports of changes in functional connectivity (FC) following the procedure are missing. We evaluated, by means of SEEG recordings, whether variation in brain activity after RF-TC is related to clinical outcome. Methods: Interictal SEEG recordings from 33 patients with drug-resistant epilepsy (DRE) were analyzed. Therapeutic response was defined as a >50% reduction in seizure frequency for at least 1 month following RF-TC. Local (power spectral density [PSD]) and FC changes were evaluated in 3-min segments recorded shortly before (baseline), shortly after, and 15 min after RF-TC. The PSD and FC strength values after thermocoagulation were compared with baseline as well as between the responder and nonresponder groups. Results: In responders, we found a significant reduction in PSD after RF-TC in channels that were thermocoagulated for all frequency bands (p =.007 for broad, delta and theta, p <.001 for alpha and beta bands). However, we did not observe such PSD decrease in nonresponders. At the network level, nonresponders displayed a significant FC increase in all frequency bands except theta (broad, delta, beta band: p <.001; alpha band: p <.01), although responders showed a significant FC decrease in delta (p <.001) and alpha bands (p <.05). Nonresponders showed stronger FC changes with respect to responders exclusively in TC channels (broad, alpha, theta, beta: p >.05; delta: p =.001). Significance: Thermocoagulation induces both local and network-related (FC) changes in electrical brain activity of patients with DRE lasting for at least 15 min. This study demonstrates that the observed short-term modifications in brain network and local activity significantly differ between responders and nonresponders and opens new perspectives for studying the longer-lasting FC changes after RF-TC. © 2023 The Authors. Epilepsia published by Wiley Periodicals LLC on behalf of International League Against Epilepsy.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1111/epi.17613
+VL  - 64
+IS  - 6
+SP  - 1582
+EP  - 1593
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85153531112&doi=10.1111%2Fepi.17613&partnerID=40&md5=9c8c20ec9be20cc7f05d3c1a894e31f6
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - The anterior and pulvinar thalamic nuclei interactions in mesial temporal lobe seizure networks
+AU  - Soulier, H.
+AU  - Pizzo, F.
+AU  - Jegou, A.
+AU  - Lagarde, S.
+AU  - Garnier, E.
+AU  - Makhalova, J.
+AU  - Medina Villalon, S.
+AU  - Carron, R.
+AU  - Bénar, C.-G.
+AU  - Bartoloméi, F.
+T2  - Clinical Neurophysiology
+AB  - Objective: To evaluate the respective roles of the anterior thalamic nucleus (ANT) and the medial pulvinar (PuM) during mesial temporal lobe seizures recorded by stereoelectroencephalography (SEEG). Methods: We assessed functional connectivity (FC) in 15 SEEG recorded seizures from 6 patients using a non-linear correlation method. Functional interactions were explored between the mesial temporal region, the temporal neocortex, ANT and PuM. The node total-strength (the summed connectivity of the node with all other nodes) as well as the directionality of the links (IN and OUT strengths) were calculated to estimate drivers and receivers during the cortico-thalamic interactions. Results: Significant increased thalamo-cortical FC during seizures was observed, with the node total-strength reaching a maximum at seizure end. There was no significant difference in global connectivity values between ANT and PuM. Regarding directionality, significantly higher thalamic IN strength values were observed. However, compared to ANT, PuM appeared to be the driver at the end of seizures with synchronous termination. Conclusions: This work demonstrates that during temporal seizures, both thalamic nuclei are highly connected with the mesial temporal region and that PuM could play a role in seizure termination. Significance: Understanding functional connectivity between the mesial temporal and thalamic nuclei could contribute to the development of target-specific deep brain stimulation strategies for drug-resistant epilepsy. © 2023 International Federation of Clinical Neurophysiology
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.clinph.2023.03.016
+VL  - 150
+SP  - 176
+EP  - 183
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85152539345&doi=10.1016%2Fj.clinph.2023.03.016&partnerID=40&md5=c281aea077efc6e13ee26a9ae9e286dc
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Resting-state SEEG-based brain network analysis for the detection of epileptic area
+AU  - Wang, A.
+AU  - Fan, Z.
+AU  - Zhang, Y.
+AU  - Wang, J.
+AU  - Zhang, X.
+AU  - Wang, P.
+AU  - Mu, W.
+AU  - Zhan, G.
+AU  - Wang, M.
+AU  - Zhang, L.
+AU  - Gan, Z.
+AU  - Kang, X.
+T2  - Journal of Neuroscience Methods
+AB  - Background: Most epilepsy research is based on interictal or ictal functional connectivity. However, prolonged electrode implantation may affect patients’ health and the accuracy of epileptic zone identification. Brief resting-state SEEG recordings reduce the observation of epileptic discharges by reducing electrode implantation and other seizure-inducing interventions. New method: The location coordinates of SEEG in the brain were identified using CT and MRI. Based on undirected brain network connectivity, five functional connectivity measures and data feature vector centrality were calculated. Network connectivity was calculated from multiple perspectives of linear correlation, information theory, phase, and frequency, and the relative influence of nodes on network connectivity was considered. We investigated the potential value of resting-state SEEG for epileptic zone identification by comparing the differences between epileptic and non-epileptic zones, as well as the differences between patients with different surgical outcomes. Results: By comparing the centrality of brain network connectivity between epileptic and non-epileptic zones, we found significant differences in the distribution of brain networks between the two zones. There was a significant difference in brain network between patients with good surgical outcomes and those with poor surgical outcomes (p < 0.01). By combining support vector machines with static node importance, we predicted an AUC of 0.94 ± 0.08 for the epilepsy zone. Conclusions and significance: The results illustrated that nodes in epileptic zones are distinct from those in non-epileptic zones. Analysis of resting-state SEEG data and the importance of nodes in the brain network may contribute to identifying the epileptic zone and predicting the outcome. © 2023 Elsevier B.V.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.jneumeth.2023.109839
+VL  - 390
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150459274&doi=10.1016%2Fj.jneumeth.2023.109839&partnerID=40&md5=a301337fa88b073a7a7f4eae9777e377
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - An application of dynamical directed connectivity of ictal intracranial EEG recordings in seizure onset zone localization
+AU  - Nahvi, M.
+AU  - Ardeshir, G.
+AU  - Ezoji, M.
+AU  - Tafakhori, A.
+AU  - Shafiee, S.
+AU  - Babajani-Feremi, A.
+T2  - Journal of Neuroscience Methods
+AB  - Background: Identification of the seizure onset zone (SOZ) is a challenging task in epilepsy surgery. Patients with epilepsy have an altered brain network, allowing connectivity-based analyses to have a great potential in SOZ identification. We investigated a dynamical directed connectivity analysis utilizing ictal intracranial electroencephalographic (iEEG) recordings and proposed an algorithm for SOZ identification based on grouping iEEG contacts. New methods: Granger Causality was used for directed connectivity analysis in this study. The intracranial contacts were grouped into visually detected contacts (VDCs), which were identified as SOZ by epileptologists, and non-resected contacts (NRCs). The intragroup and intergroup directed connectivity for VDCs and NRCs were calculated around seizure onset. We then proposed an algorithm for SOZ identification based on the cross-correlation of intragroup outflow and inflow of SOZ candidate contacts. Results: Our results revealed that the intragroup connectivity of VDCs (VDC→VDC) was significantly larger than the intragroup connectivity of NRCs (NRC→NRC) and the intergroup connectivity between NRCs and VDCs (NRC→VDC) around seizure onset. We found that the proposed algorithm had 90.1 % accuracy for SOZ identification in the seizure-free patients. Comparison with existing methods: The existing connectivity-based methods for SOZ identification often use either outflow or inflow. In this study, SOZ contacts were identified by integrating outflow and inflow based on the cross correlation between these two measures. Conclusions: The proposed group-based dynamical connectivity analysis in this study can aid our understanding of underlying seizure network and may be used to assist in identifying the SOZ contacts before epilepsy surgery. © 2023 Elsevier B.V.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.jneumeth.2022.109775
+VL  - 386
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85145686408&doi=10.1016%2Fj.jneumeth.2022.109775&partnerID=40&md5=d9da54b7fe8e93d7afef45e09a269be0
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Daily resting-state intracranial EEG connectivity for seizure risk forecasts
+AU  - Cousyn, L.
+AU  - Messaoud, R.B.
+AU  - Lehongre, K.
+AU  - Frazzini, V.
+AU  - Lambrecq, V.
+AU  - Adam, C.
+AU  - Mathon, B.
+AU  - Navarro, V.
+AU  - Chávez, M.
+T2  - Epilepsia
+AB  - Forecasting seizure risk aims to detect proictal states in which seizures would be more likely to occur. Classical seizure prediction models are trained over long-term electroencephalographic (EEG) recordings to detect specific preictal changes for each seizure, independently of those induced by shifts in states of vigilance. A daily single measure—during a vigilance-controlled period—to estimate the risk of upcoming seizure(s) would be more convenient. Here, we evaluated whether intracranial EEG connectivity (phase-locking value), estimated from daily vigilance-controlled resting-state recordings, could allow distinguishing interictal (no seizure) from preictal (seizure within the next 24 h) states. We also assessed its relevance for daily forecasts of seizure risk using machine learning models. Connectivity in the theta band was found to provide the best prediction performances (area under the curve ≥.7 in 80% of patients), with accurate daily and prospective probabilistic forecasts (mean Brier score and Brier skill score of.13 and.72, respectively). More efficient ambulatory clinical application could be considered using mobile EEG or chronic implanted devices. © 2022 International League Against Epilepsy.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1111/epi.17480
+VL  - 64
+IS  - 2
+SP  - e23
+EP  - e29
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144839910&doi=10.1111%2Fepi.17480&partnerID=40&md5=fcc17bdab3702ba979abf7a9923d3022
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Source-sink connectivity: A novel interictal EEG marker for seizure localization
+AU  - Gunnarsdottir, K.M.
+AU  - Li, A.
+AU  - Smith, R.J.
+AU  - Kang, J.Y.
+AU  - Korzeniewska, A.
+AU  - Crone, N.E.
+AU  - Rouse, A.G.
+AU  - Cheng, J.J.
+AU  - Kinsman, M.J.
+AU  - Landazuri, P.
+AU  - Uysal, U.
+AU  - Ulloa, C.M.
+AU  - Cameron, N.
+AU  - Cajigas, I.
+AU  - Jagid, J.
+AU  - Kanner, A.
+AU  - Elarjani, T.
+AU  - Bicchi, M.M.
+AU  - Inati, S.K.
+AU  - Zaghloul, K.A.
+AU  - Boerwinkle, V.L.
+AU  - Wyckoff, S.
+AU  - Barot, N.
+AU  - González-Martínez, J.
+AU  - Sarma, S.
+T2  - Brain
+AB  - Over 15 million epilepsy patients worldwide have drug-resistant epilepsy. Successful surgery is a standard of care treatment but can only be achieved through complete resection or disconnection of the epileptogenic zone, the brain region(s) where seizures originate. Surgical success rates vary between 20% and 80%, because no clinically validated biological markers of the epileptogenic zone exist. Localizing the epileptogenic zone is a costly and time-consuming process, which often requires days to weeks of intracranial EEG (iEEG) monitoring. Clinicians visually inspect iEEG data to identify abnormal activity on individual channels occurring immediately before seizures or spikes that occur interictally (i.e. between seizures). In the end, the clinical standard mainly relies on a small proportion of the iEEG data captured to assist in epileptogenic zone localization (minutes of seizure data versus days of recordings), missing opportunities to leverage these largely ignored interictal data to better diagnose and treat patients. IEEG offers a unique opportunity to observe epileptic cortical network dynamics but waiting for seizures increases patient risks associated with invasive monitoring. In this study, we aimed to leverage interictal iEEG data by developing a new network-based interictal iEEG marker of the epileptogenic zone. We hypothesized that when a patient is not clinically seizing, it is because the epileptogenic zone is inhibited by other regions. We developed an algorithm that identifies two groups of nodes from the interictal iEEG network: those that are continuously inhibiting a set of neighbouring nodes ('sources') and the inhibited nodes themselves ('sinks'). Specifically, patient-specific dynamical network models were estimated from minutes of iEEG and their connectivity properties revealed top sources and sinks in the network, with each node being quantified by source-sink metrics. We validated the algorithm in a retrospective analysis of 65 patients. The source-sink metrics identified epileptogenic regions with 73% accuracy and clinicians agreed with the algorithm in 93% of seizure-free patients. The algorithm was further validated by using the metrics of the annotated epileptogenic zone to predict surgical outcomes. The source-sink metrics predicted outcomes with an accuracy of 79% compared to an accuracy of 43% for clinicians' predictions (surgical success rate of this dataset). In failed outcomes, we identified brain regions with high metrics that were untreated. When compared with high frequency oscillations, the most commonly proposed interictal iEEG feature for epileptogenic zone localization, source-sink metrics outperformed in predictive power (by a factor of 1.2), suggesting they may be an interictal iEEG fingerprint of the epileptogenic zone. © 2022 The Author(s). Published by Oxford University Press on behalf of the Guarantors of Brain. All rights reserved.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1093/brain/awac300
+VL  - 145
+IS  - 11
+SP  - 3901
+EP  - 3915
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142373925&doi=10.1093%2Fbrain%2Fawac300&partnerID=40&md5=9c8687414e253f00805e4abd008513f5
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Peri-ictal hypoxemia during temporal lobe seizures: A SEEG study
+AU  - Jung, J.
+AU  - Bouet, R.
+AU  - Catenoix, H.
+AU  - Montavont, A.
+AU  - Isnard, J.
+AU  - Boulogne, S.
+AU  - Guénot, M.
+AU  - Ryvlin, P.
+AU  - Rheims, S.
+T2  - Human Brain Mapping
+AB  - Focal seizures originating from the temporal lobe are commonly associated with peri-ictal hypoxemia (PIH). During the course of temporal lobe seizures, epileptic discharges often not only spread within various parts of the temporal lobe but also possibly insula and frontal lobe. The link between spatial propagation of the seizure discharges and PIH is still unclear. The present study investigates the involvement of several brain structures including medial temporal structures, temporal pole, anterior insula, and frontal cortex in the occurrence of PIH. Using quantitative indices obtained during SEEG (stereoencephalography) recordings in 38 patients, we evaluated the epileptogenicity, the spatial propagation, and functional connectivity between those structures during seizures leading to PIH. Multivariate statistical analyses of SEEG quantitative indices showed that temporal lobe seizures leading to PIH are characterized by a strong involvement of amygdala and anterior insula during seizure propagation and a more widespread involvement of medial temporal lobe structures, lateral temporal lobe, temporal pole, and anterior cingulate at the end of the seizures. On the contrary, seizure-onset zone was not associated with PIH occurrence. During seizure propagation, anterior insula, temporal pole, and temporal lateral neocortex activities were correlated with intensity of PIH. Lastly, PIH occurrence was also related to a widespread increase of synchrony between those structures. Those results suggest that PIH occurrence during temporal lobe seizures may be related to the activation of a widespread network of cortical structures, among which amygdala and anterior insula are key nodes. © 2022 The Authors. Human Brain Mapping published by Wiley Periodicals LLC.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1002/hbm.25975
+VL  - 43
+IS  - 15
+SP  - 4580
+EP  - 4588
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131790103&doi=10.1002%2Fhbm.25975&partnerID=40&md5=6f0c7c3efef1afda4a87278ae18f6334
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - SEEG Functional Connectivity Measures to Identify Epileptogenic Zones
+AU  - Paulo, D.L.
+AU  - Wills, K.E.
+AU  - Johnson, G.W.
+AU  - González, H.F.J.
+AU  - Rolston, J.D.
+AU  - Naftel, R.P.
+AU  - Reddy, S.B.
+AU  - Morgan, V.L.
+AU  - Kang, H.
+AU  - Williams Roberson, S.W.
+AU  - Narasimhan, S.
+AU  - Englot, D.J.
+T2  - Neurology
+AB  - Background and ObjectivesFunctional connectivity (FC) measures can be used to differentiate epileptogenic zones (EZs) from non-EZs in patients with medically refractory epilepsy. Little work has been done to evaluate the stability of stereo-EEG (SEEG) FC measures over time and their relationship with antiseizure medication (ASM) use, a critical confounder in epilepsy FC studies. We aimed to answer the following questions: Are SEEG FC measures stable over time? Are they influenced by ASMs? Are they affected by patient data collection state?MethodsIn 32 patients with medically refractory focal epilepsy, we collected a single 2-minute prospective SEEG resting-state (awake, eyes closed) data set and consecutive 2-minute retrospective pseudo-rest (awake, eyes open) data sets for days 1-7 postimplantation. ASM dosages were recorded for days 1-7 postimplantation and drug load score (DLS) per day was calculated to standardize and compare across patients. FC was evaluated using directed and nondirected measures. Standard clinical interpretation of ictal SEEG was used to classify brain regions as EZs and non-EZs.ResultsOver 7 days, presumed EZs consistently had higher FC than non-EZs when using between imaginary coherence (ImCoh) and partial directed coherence (PDC) inward strength, without accounting for DLS. These measures were demonstrated to be stable over a short-term period of 3 consecutive days with the same DLS. Between ImCoh FC differences between EZs and non-EZs were reduced with DLS decreases, whereas other measures were not affected by DLS. FC differences between EZs and non-EZs were seen during both resting-state and pseudo-rest conditions; ImCoh values were strongly correlated between the 2 conditions, whereas PDC values were not.DiscussionInward and nondirected SEEG FC is higher in presumed EZs vs non-EZs and measures are stable over time. However, certain measures may be affected by ASM dose, as between ImCoh differences between EZs and non-EZs are less pronounced with lower doses, and other measures such as PDC are poorly correlated across recording conditions. These findings allow novel insight into how SEEG FC measures may aid surgical localization and how they are influenced by ASMs and other factors. © American Academy of Neurology.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1212/WNL.0000000000200386
+VL  - 98
+IS  - 20
+SP  - E2060
+EP  - E2072
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130635463&doi=10.1212%2FWNL.0000000000200386&partnerID=40&md5=62a92689289494cf73e7c103fba44acd
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Graph theoretical measures of fast ripples support the epileptic network hypothesis
+AU  - Weiss, S.A.
+AU  - Pastore, T.
+AU  - Orosz, I.
+AU  - Rubinstein, D.
+AU  - Gorniak, R.
+AU  - Waldman, Z.
+AU  - Fried, I.
+AU  - Wu, C.
+AU  - Sharan, A.
+AU  - Fernández Slezak, D.
+AU  - Worrell, G.A.
+AU  - Engel, J.
+AU  - Sperling, M.R.
+AU  - Staba, R.J.
+T2  - Brain Communications
+AB  - The epileptic network hypothesis and epileptogenic zone hypothesis are two theories of ictogenesis. The network hypothesis posits that coordinated activity among interconnected nodes produces seizures. The epileptogenic zone hypothesis posits that distinct regions are necessary and sufficient for seizure generation. High-frequency oscillations, and particularly fast ripples, are thought to be biomarkers of the epileptogenic zone. We sought to test these theories by comparing high-frequency oscillation rates and networks in surgical responders and non-responders, with no appreciable change in seizure frequency or severity, within a retrospective cohort of 48 patients implanted with stereo-EEG electrodes. We recorded inter-ictal activity during non-rapid eye movement sleep and semi-Automatically detected and quantified high-frequency oscillations. Each electrode contact was localized in normalized coordinates. We found that the accuracy of seizure onset zone electrode contact classification using high-frequency oscillation rates was not significantly different in surgical responders and non-responders, suggesting that in non-responders the epileptogenic zone partially encompassed the seizure onset zone(s) (P > 0.05). We also found that in the responders, fast ripple on oscillations exhibited a higher spectral content in the seizure onset zone compared with the non-seizure onset zone (P < 1 × 10-5). By contrast, in the non-responders, fast ripple had a lower spectral content in the seizure onset zone (P < 1 × 10-5). We constructed two different networks of fast ripple with a spectral content >350aHz. The first was a rate-distance network that multiplied the Euclidian distance between fast ripple-generating contacts by the average rate of fast ripple in the two contacts. The radius of the rate-distance network, which excluded seizure onset zone nodes, discriminated non-responders, including patients not offered resection or responsive neurostimulation due to diffuse multifocal onsets, with an accuracy of 0.77 [95% confidence interval (CI) 0.56-0.98]. The second fast ripple network was constructed using the mutual information between the timing of the events to measure functional connectivity. For most non-responders, this network had a longer characteristic path length, lower mean local efficiency in the non-seizure onset zone, and a higher nodal strength among non-seizure onset zone nodes relative to seizure onset zone nodes. The graphical theoretical measures from the rate-distance and mutual information networks of 22 non-responsive neurostimulation treated patients was used to train a support vector machine, which when tested on 13 distinct patients classified non-responders with an accuracy of 0.92 (95% CI 0.75-1). These results indicate patients who do not respond to surgery or those not selected for resection or responsive neurostimulation can be explained by the epileptic network hypothesis that is a decentralized network consisting of widely distributed, hyperexcitable fast ripple-generating nodes. © 2022 The Author(s). Published by Oxford University Press on behalf of the Guarantors of Brain.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1093/braincomms/fcac101
+VL  - 4
+IS  - 3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134048106&doi=10.1093%2Fbraincomms%2Ffcac101&partnerID=40&md5=ba908de43b136186afd99c92907c1b9c
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Parieto-premotor functional connectivity changes during parietal lobe seizures are associated with motor semiology
+AU  - Fonti, D.
+AU  - Lagarde, S.
+AU  - Pizzo, F.
+AU  - Aboubakr, W.
+AU  - Bénar, C.-G.
+AU  - Giusiano, B.
+AU  - Bartoloméi, F.
+T2  - Clinical Neurophysiology
+AB  - Objectives: Parietal lobe seizures (PLS) are characterized by multiple clinical manifestations including motor signs. The mechanisms underlying the occurrence of motor signs are poorly understood. The main objective of this work was to estimate the functional coupling of brain regions associated with this clinical presentation. Methods: We retrospectively selected patients affected by drug-resistant epilepsy who underwent Stereoelectroencephalography (SEEG) for pre-surgical evaluation and in whom the seizure onset zone (SOZ) was located in the parietal cortex. The SOZ was defined visually and quantitatively by the epileptogenicity index (EI) method. Two groups of seizures were defined according to the presence (“motor seizures”) or the absence (“non-motor seizures”) of motor signs. Functional connectivity (FC) estimation was based on pairwise nonlinear regression analysis (h2 coefficient). To study FC changes between parietal, frontal and temporal regions, for each patient, z-score values of 16 cortico-cortical interactions were obtained comparing h2 coefficients of pre-ictal, seizure onset and seizure propagation periods. Results: We included 22 patients, 13 with “motor seizures” and 9 with “non-motor seizures”. Resective surgery was performed in 14 patients, 8 patients had a positive surgical outcome (Engel's class I and II). During seizure onset period, a decrease of FC was observed and was significantly more important (in comparison with background period) in “motor” seizures. This was particularly observed between parietal operculum/post-central gyrus (OP/PoCg) and mesial temporal areas. During seizure propagation, a FC increase was significantly more important (in comparison with seizure onset) in “motor seizures”, in particular between lateral pre-motor (pmL) area and precuneus, pmL and superior parietal lobule (SPL) and between inferior parietal lobule (IPL) and supplementary motor area (SMA). Conclusions: Our study shows that motor semiology in PLS is accompanied by an increase of FC between parietal and premotor cortices, significantly different than what is observed in PLS without motor semiology. Significance: Our results indicate that preferential routes of coupling between parietal and premotor cortices are responsible for the prominent motor presentation during PLS. © 2021 International Federation of Clinical Neurophysiology
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.clinph.2021.06.003
+VL  - 132
+IS  - 9
+SP  - 2046
+EP  - 2053
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110596096&doi=10.1016%2Fj.clinph.2021.06.003&partnerID=40&md5=bba3d32ce9bd5b4ceb276d42eff6c660
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Quantitative assessment of structural and functional changes in temporal lobe epilepsy with hippocampal sclerosis
+AU  - Mo, J.
+AU  - Zhao, B.
+AU  - Adler, S.
+AU  - Zhang, J.
+AU  - Shao, X.
+AU  - Ma, Y.
+AU  - Sang, L.
+AU  - Hu, W.
+AU  - Zhang, C.
+AU  - Wang, Y.
+AU  - Wang, X.
+AU  - Liu, C.
+AU  - Zhang, K.
+T2  - Quantitative Imaging in Medicine and Surgery
+AB  - Background: Magnetic resonance imaging (MRI) changes in hippocampal sclerosis (HS) could be subtle in a significant proportion of mesial temporal lobe epilepsy (mTLE) patients. In this study, we aimed to document the structural and functional changes in the hippocampus and amygdala seen in HS patients. Methods: Quantitative features of the hippocampus and amygdala were extracted from structural MRI data in 66 mTLE patients and 28 controls. Structural covariance analysis was undertaken using volumetric data from the amygdala and hippocampus. Functional connectivity (FC) measured using resting intracranial electroencephalography (EEG) was analyzed in 22 HS patients and 16 non-HS disease controls. Results: Hippocampal atrophy was present in both MRI-positive and MRI-negative HS groups (Mann-Whitney U: 7.61, P<0.01; Mann-Whitney U: 6.51, P<0.01). Amygdala volumes were decreased in the patient group (Mann-Whitney U: 2.92, P<0.05), especially in MRI-negative HS patients (Mann-Whitney U: 2.75, P<0.05). The structural covariance analysis showed the normalized volumes of the amygdala and hippocampus were tightly coupled in both controls and HS patients (ρSpearman =0.72, P<0.01). FC analysis indicated that HS patients had significantly increased connectivity (Student's t: 2.58, P=0.03) within the hippocampus but decreased connectivity between the hippocampus and amygdala (Student's t: 3.33, P=0.01), particularly for MRI-negative HS patients. Conclusions: Quantitative structural changes, including hippocampal atrophy and temporal pole blurring, are present in both MRI-positive and MRI-negative HS patients, suggesting the potential usefulness of incorporating quantitative analyses into clinical practice. HS is characterized by increased intra-hippocampal EEG synchronization and decreased coupling between the hippocampus and amygdala. © Quantitative Imaging in Medicine and Surgery. All rights reserved.
+DA  - 2021///
+PY  - 2021
+DO  - 10.21037/qims-20-624
+VL  - 11
+IS  - 5
+SP  - 1782
+EP  - 1795
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102533300&doi=10.21037%2Fqims-20-624&partnerID=40&md5=d61c65f03a03ce9a53b21dd5752f4959
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - High-Frequency Hubs of the Ictal Cross-Frequency Coupling Network Predict Surgical Outcome in Epilepsy Patients
+AU  - Li, C.
+AU  - Sohrabpour, A.
+AU  - Jiang, H.
+AU  - He, B.
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+AB  - Seizure generation is thought to be a process driven by epileptogenic networks; thus, network analysis tools can help determine the efficacy of epilepsy treatment. Studies have suggested that low-frequency (LF) to high-frequency (HF) cross-frequency coupling (CFC) is a useful biomarker for localizing epileptogenic tissues. However, it remains unclear whether the LF or HF coordinated CFC network hubs are more critical in determining the treatment outcome. We hypothesize that HF hubs are primarily responsible for seizure dynamics. Stereo-electroencephalography (SEEG) recordings of 36 seizures from 16 intractable epilepsy patients were analyzed. We propose a new approach to model the temporal-spatial-spectral dynamics of CFC networks. Graph measures are then used to characterize the HF and LF hubs. In the patient group with Engel Class (EC) I outcome, the strength of HF hubs was significantly higher inside the resected regions during the early and middle stages of seizure, while such a significant difference was not observed in the EC III group and only for the early stage in the EC II group. For the LF hubs, a significant difference was identified at the late stage and only in the EC I group. Our findings suggest that HF hubs increase at early and middle stages of the ictal interval while LF hubs increase activity at the late stages. In addition, HF hubs can predict treatment outcomes more precisely, compared to the LF hubs of the CFC network. The proposed method promises to identify more accurate targets for surgical interventions or neuromodulation therapies. © 2001-2011 IEEE.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/TNSRE.2021.3093703
+VL  - 29
+SP  - 1290
+EP  - 1299
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110682470&doi=10.1109%2FTNSRE.2021.3093703&partnerID=40&md5=99e1aae04873ce8853921dc394be6495
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - The Rolandic operculum generates different semiologies in insulo-opercular and temporal lobe epilepsies
+AU  - Wang, Y.
+AU  - Wang, X.
+AU  - Zhao, B.
+AU  - Sang, L.
+AU  - Zhang, C.
+AU  - Hu, W.
+AU  - Shao, X.
+AU  - Zhang, J.
+AU  - Zhang, K.
+T2  - Epilepsy and Behavior
+AB  - Purpose: The role of the Rolandic operculum in in mesial temporal lobe epilepsy (MTLE) is to produce oroalimentary automatisms (OAAs). In insulo-opercular epilepsy (IOE), the Rolandic operculum may produce perioral muscle clonic or tonic movements or contractions. This paper aims to confirm the symptomatogenic zone of facial symptoms in IOE and to explain this phenomenon. Methods: A total of 45 IOE patients and 15 MTLE patients were analyzed. The patients with IOE were divided into facial (+) and (-) groups according to the facial symptoms. The interictal positron emission tomography (PET) data were compared among groups. Furthermore, electroclinical correlation, functional connectivity and energy ratio (ER) were analyzed with stereo-electroencephalography (SEEG). Results: Intergroup PET differences were observed mainly in the Rolandic operculum. Electroclinical correlation showed that the Rolandic operculum was the only brain area showing any correlations. Compared with the facial (-) group, the facial (+) group showed stronger functional connectivity and a higher ER in the alpha 1, alpha 2 and beta sub-bands. In the Rolandic operculum, compared with those of the MTLE group, the h2 and ER of the facial (+) group were higher in the high frequency sub-bands. Intergroup comparison of the ER in the seizure onset zones (SOZ) showed no significant difference. Significance: The symptomatogenic zone of facial symptoms in IOE is the Rolandic operculum. Seizure propagation to the Rolandic operculum generates different semiologies because of the different synchronization frequencies and energies of the sub-bands depending on the site of seizure origin. This may be due to the complex spreading pathway from the SOZ to the symptomatogenic zone. © 2020 Elsevier Inc.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.yebeh.2020.107614
+VL  - 114
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85097089262&doi=10.1016%2Fj.yebeh.2020.107614&partnerID=40&md5=895bf7e967ccf7dd4eb527bb02424cb5
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Semi-automatic Extraction of Functional Dynamic Networks Describing Patient's Epileptic Seizures
+AU  - Frusque, G.
+AU  - Borgnat, P.
+AU  - Gonçalvés, P.
+AU  - Jung, J.
+T2  - Frontiers in Neurology
+AB  - Intracranial electroencephalography (EEG) studies using stereotactic EEG (SEEG) have shown that during seizures, epileptic activity spreads across several anatomical regions from the seizure onset zone toward remote brain areas. A full and objective characterization of this patient-specific time-varying network is crucial for optimal surgical treatment. Functional connectivity (FC) analysis of SEEG signals recorded during seizures enables to describe the statistical relations between all pairs of recorded signals. However, extracting meaningful information from those large datasets is time consuming and requires high expertise. In the present study, we first propose a novel method named Brain-wide Time-varying Network Decomposition (BTND) to characterize the dynamic epileptogenic networks activated during seizures in individual patients recorded with SEEG electrodes. The method provides a number of pathological FC subgraphs with their temporal course of activation. The method can be applied to several seizures of the patient to extract reproducible subgraphs. Second, we compare the activated subgraphs obtained by the BTND method with visual interpretation of SEEG signals recorded in 27 seizures from nine different patients. As a whole, we found that activated subgraphs corresponded to brain regions involved during the course of the seizures and their time course was highly consistent with classical visual interpretation. We believe that the proposed method can complement the visual analysis of SEEG signals recorded during seizures by highlighting and characterizing the most significant parts of epileptic networks with their activation dynamics. © Copyright © 2020 Frusque, Borgnat, Gonçalves and Jung.
+DA  - 2020///
+PY  - 2020
+DO  - 10.3389/fneur.2020.579725
+VL  - 11
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098149405&doi=10.3389%2Ffneur.2020.579725&partnerID=40&md5=67f03881d09e91d40e2a9d0b6580d894
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Seizure-onset regions demonstrate high inward directed connectivity during resting-state: An SEEG study in focal epilepsy
+AU  - Narasimhan, S.
+AU  - Kundassery, K.B.
+AU  - Gupta, K.
+AU  - Johnson, G.W.
+AU  - Wills, K.E.
+AU  - Goodale, S.E.
+AU  - Haas, K.F.
+AU  - Rolston, J.D.
+AU  - Naftel, R.P.
+AU  - Morgan, V.L.
+AU  - Dawant, B.M.
+AU  - González, H.F.J.
+AU  - Englot, D.J.
+T2  - Epilepsia
+AB  - Objective: In patients with medically refractory focal epilepsy, stereotactic-electroencephalography (SEEG) can aid in localizing epileptogenic regions for surgical treatment. SEEG, however, requires long hospitalizations to record seizures, and ictal interpretation can be incomplete or inaccurate. Our recent work showed that non-directed resting-state analyses may identify brain regions as epileptogenic or uninvolved. Our present objective is to map epileptogenic networks in greater detail and more accurately identify seizure-onset regions using directed resting-state SEEG connectivity. Methods: In 25 patients with focal epilepsy who underwent SEEG, 2 minutes of resting-state, artifact-free, SEEG data were selected and functional connectivity was estimated. Using standard clinical interpretation, brain regions were classified into four categories: ictogenic, early propagation, irritative, or uninvolved. Three non-directed connectivity measures (mutual information [MI] strength, and imaginary coherence between and within regions) and four directed measures (partial directed coherence [PDC] and directed transfer function [DTF], inward and outward strength) were calculated. Logistic regression was used to generate a predictive model of ictogenicity. Results: Ictogenic regions had the highest and uninvolved regions had the lowest MI strength. Although both PDC and DTF inward strengths were highest in ictogenic regions, outward strengths did not differ among categories. A model incorporating directed and nondirected connectivity measures demonstrated an area under the receiver-operating characteristic (ROC) curve (AUC) of 0.88 in predicting ictogenicity of individual regions. The AUC of this model was 0.93 when restricted to patients with favorable postsurgical seizure outcomes. Significance: Directed connectivity measures may help identify epileptogenic networks without requiring ictal recordings. Greater inward but not outward connectivity in ictogenic regions at rest may represent broad inhibitory input to prevent seizure generation. © 2020 International League Against Epilepsy
+DA  - 2020///
+PY  - 2020
+DO  - 10.1111/epi.16686
+VL  - 61
+IS  - 11
+SP  - 2534
+EP  - 2544
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091039333&doi=10.1111%2Fepi.16686&partnerID=40&md5=f320159feffbd721be7c775df7b9edb8
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - The “Connectivity Epileptogenicity Index ” (cEI), a method for mapping the different seizure onset patterns in StereoElectroEncephalography recorded seizures
+AU  - Balatskaya, A.
+AU  - Roehri, N.
+AU  - Lagarde, S.
+AU  - Pizzo, F.
+AU  - Medina, S.
+AU  - Wendling, F.
+AU  - Bénar, C.-G.
+AU  - Bartoloméi, F.
+T2  - Clinical Neurophysiology
+AB  - Objective: Localization of epileptogenic brain regions is a crucial aim of pre-surgical evaluation of patients with drug-resistant epilepsy. Several methods have been proposed to identify the seizure onset zone, particularly based on the detection of fast activity. Most of these methods are inefficient to detect slower patterns of onset that account for 20–30% of commonly observed Stereo-Electro-Encephalography (SEEG) patterns. We seek to evaluate the performance of a new quantified measure called the Connectivity Epileptogenicity Index (cEI) in various types of seizure onset patterns. Methods: We studied SEEG recorded seizures from 51 patients, suffering from focal drug-resistant epilepsy. The cEI combines a directed connectivity measure (“out-degrees”) and the original epileptogenicity index (EI). Quantified results (Out-degrees, cEI and EI) were compared to visually defined seizure onset zone (vSOZ). We computed recall (sensitivity) and precision (proportion of correct detections within all detections) with vSOZ as a reference. The quality of the detector was quantified by the area under the precision-recall curve. Results: Best results (in terms of match with vSOZ) were obtained for cEI. For seizures with fast onset patterns, cEI and EI gave comparable results. For seizures with slow onset patterns, cEI gave a better estimation of the vSOZ than EI. Conclusions: We observed that cEI discloses better performance than EI when seizures starts with slower patterns and equal to EI in seizures with fast onset patterns. Significance: The cEI is a promising new tool for epileptologists, that helps characterizing the seizure onset zone in sEEG, in a robust way despite variations in seizure onset patterns. © 2020 International Federation of Clinical Neurophysiology
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.clinph.2020.05.029
+VL  - 131
+IS  - 8
+SP  - 1947
+EP  - 1955
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087115394&doi=10.1016%2Fj.clinph.2020.05.029&partnerID=40&md5=924e77cecebbb8bfe5bdb0b833eb4165
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Resting-State SEEG May Help Localize Epileptogenic Brain Regions
+AU  - Goodale, S.E.
+AU  - González, H.F.J.
+AU  - Johnson, G.W.
+AU  - Gupta, K.
+AU  - Rodriguez, W.J.
+AU  - Shults, R.
+AU  - Rogers, B.P.
+AU  - Rolston, J.D.
+AU  - Dawant, B.M.
+AU  - Morgan, V.L.
+AU  - Englot, D.J.
+T2  - Neurosurgery
+AB  - BACKGROUND: Stereotactic electroencephalography (SEEG) is a minimally invasive neurosurgical method to localize epileptogenic brain regions in epilepsy but requires days in the hospital with interventions to trigger several seizures. OBJECTIVE: To make initial progress in the development of network analysis methods to identify epileptogenic brain regions using brief, resting-state SEEG data segments, without requiring seizure recordings. METHODS: In a cohort of 15 adult focal epilepsy patients undergoing SEEG, we evaluated functional connectivity (alpha-band imaginary coherence) across sampled regions using brief (2 min) resting-state data segments. Bootstrapped logistic regression was used to generate a model to predict epileptogenicity of individual regions. RESULTS: Compared to nonepileptogenic structures, we found increased functional connectivity within epileptogenic regions (P <. 05) and between epileptogenic areas and other structures (P <. 01, paired t-tests, corrected). Epileptogenic areas also demonstrated higher clustering coefficient (P <. 01) and betweenness centrality (P <. 01), and greater decay of functional connectivity with distance (P <. 05, paired t-tests, corrected). Our functional connectivity model to predict epileptogenicity of individual regions demonstrated an area under the curve of 0.78 and accuracy of 80.4%. CONCLUSION: Our study represents a preliminary step towards defining resting-state SEEG functional connectivity patterns to help localize epileptogenic brain regions ahead of neurosurgical treatment without requiring seizure recordings. © 2019 by the Congress of Neurological Surgeons.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1093/neuros/nyz351
+VL  - 86
+IS  - 6
+SP  - 792
+EP  - 801
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083310546&doi=10.1093%2Fneuros%2Fnyz351&partnerID=40&md5=9ab916765be2dd59ea72616f65b95e4d
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Symptomatogenic zone and network of oroalimentary automatisms in mesial temporal lobe epilepsy
+AU  - Wang, Y.
+AU  - Wang, X.
+AU  - Mo, J.
+AU  - Sang, L.
+AU  - Zhao, B.
+AU  - Zhang, C.
+AU  - Hu, W.
+AU  - Zhang, J.
+AU  - Shao, X.
+AU  - Zhang, K.
+T2  - Epilepsia
+AB  - Objective: Oroalimentary automatisms (OAAs) are common clinical manifestations of medial temporal lobe epilepsy. Nevertheless, the location of the symptomatogenic zone of OAAs remains unclear. The generation mechanism of OAAs also has not been clarified. We attempt to explain these problems by analyzing interictal [18F]-fluorodeoxyglucose positron emission tomography (18FDG-PET) imaging and ictal stereo-electroencephalography (SEEG) recordings in patients with medial temporal lobe epilepsy. Methods: Fifty-seven patients with mesial temporal lobe epilepsy were analyzed retrospectively. All underwent anterior temporal lobectomy (ATL) and were seizure-free. The patients were divided into OAA (+) and OAA (−) groups according to the occurrence of consistent stereotyped OAAs. The interictal PET data were compared with those of 18 healthy controls and were then compared between groups using statistical parametric mapping (SPM). Functional connectivity using linear regression analysis was performed between the target brain regions. To clarify the network of OAAs, ictal epileptogenicity index (EI) values, and the nonlinear correlation method h2 were performed with SEEG on patients. Results: Compared to OAAs (−), the rolandic operculum was the only area with significant differences. Hippocampus and rolandic operculum showed significant correlations in the OAA (+) group (y = 0.758x+0.470, R2 = 0.456, P = 0.000). No correlation was found in the OAA (−) group (P = 0.486). The EI values of the OAA (+) group (median 0.20) were significantly higher (P < 0.0001) than those of the OAA (−) group (median 0). The h2 in the OAA (+) group (h2 = 0.23 ± 0.13) showed stronger functional connectivity (t = 6.166, P < 0.0001) than that of the OAA (−) group (h2 = 0.08 ± 0.05). Significance: The rolandic operculum is most likely to be the symptomatogenic zone of OAAs. In medial temporal lobe epilepsy, unilateral functional connection from the hippocampus to the rolandic operculum during seizure onset is the basis for the generation of OAAs. Wiley Periodicals, Inc. © 2019 International League Against Epilepsy
+DA  - 2019///
+PY  - 2019
+DO  - 10.1111/epi.15457
+VL  - 60
+IS  - 6
+SP  - 1150
+EP  - 1159
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066027302&doi=10.1111%2Fepi.15457&partnerID=40&md5=ea23352e89cfa60788186a77fff88bbb
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Cortico-striatal synchronization in human focal seizures
+AU  - Aupy, J.
+AU  - Wendling, F.
+AU  - Taylor, K.
+AU  - Bulacio, J.
+AU  - González-Martínez, J.
+AU  - Chauvel, P.
+T2  - Brain
+AB  - Although a number of experimental and clinical studies have pointed out participation or an even more prominent role of basal ganglia in focal seizures, the mode of interaction between cortical and striatal signals remains unclear. In the present study, we took stereoelectroencephalographic (SEEG) recordings in drug-resistant epilepsy patients, to qualitatively and quantitatively analyse the ictal striatum activity as well as its synchronization with cerebral cortex. Eleven patients who underwent SEEG evaluation were prospectively included if they fulfilled two inclusion criteria: (i) at least one orthogonal intracerebral electrode contact explored the basal ganglia, in either their putaminal or caudate part; and (ii) at least two SEEG seizures were recorded. Cortical and subcortical regions of interest were defined and different periods of interest were analysed. SEEG was visually inspected and h2 non-linear correlation analysis performed to study functional connectivity between cortical region of interest and striatum. Six correlation indices were calculated. Two main patterns of striatal activation were recorded: the most frequent was characterized by an early alpha/beta activity that started within the first 5 s after seizure onset, sometimes concomitant with it. The second one was characterized by late, slower, theta/delta activity. A significant difference in h2 correlation indices was observed during the preictal and seizure onset period compared to background for global striatal index, mesiooral/striatal index, laterooral/striatal index, insular/striatal index, prefrontal/striatal index. In addition, a significant difference in h2 correlation indices was observed during the seizure termination period compared to all the other periods of interest for the six indices calculated. These results indicate that cortico-striatal synchronization can arise from the start of focal seizures. Depending on the ictal frequency pattern, desynchronization can occur later, but a late and terminal hypersynchronization progressively takes over. These changes in synchronization level between cortical and striatal activity might be part of an endogenous mechanism controlling the duration of abnormal oscillations within the striato-thalamo-cortical loop and thereby their termination. Pathophysiology of basal ganglia in focal seizures appears to be much more interlinked with the cortex than expected. Beyond the stereotypical features they could imprint to seizure semiology, their role in strengthening mechanisms underlying cessation of ictal propagation should inspire new rationales for deep brain stimulation in patients with intractable focal epilepsies. © 2019 The Author(s).
+DA  - 2019///
+PY  - 2019
+DO  - 10.1093/brain/awz062
+VL  - 142
+IS  - 5
+SP  - 1282
+EP  - 1295
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065344577&doi=10.1093%2Fbrain%2Fawz062&partnerID=40&md5=ad092bc263a20a77af83f286d9465d18
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Localization of epileptogenic zone with the correction of pathological networks
+AU  - Yang, C.
+AU  - Luan, G.
+AU  - Wang, Q.
+AU  - Liu, Z.
+AU  - Zhai, F.
+AU  - Wang, Q.
+T2  - Frontiers in Neurology
+AB  - Patients with focal drug-resistant epilepsy are potential candidates for surgery. Stereo-electroencephalograph (SEEG) is often considered as the "gold standard" to identify the epileptogenic zone (EZ) that accounts for the onset and propagation of epileptiform discharges. However, visual analysis of SEEG still prevails in clinical practice. In addition, epilepsy is increasingly understood to be the result of network disorder, but the specific organization of the epileptic network is still unclear. Therefore, it is necessary to quantitatively localize the EZ and investigate the nature of epileptogenic networks. In this study, intracranial recordings from 10 patients were analyzed through adaptive directed transfer function, and the out-degree of effective network was selected as the principal indicator to localize the epileptogenic area. Furthermore, a coupled neuronal population model was used to qualitatively simulate electrical activity in the brain. By removing individual populations, virtual surgery adjusting the network organization could be performed. Results suggested that the accuracy and detection rate of the EZ localization were 82.86 and 85.29%, respectively. In addition, the same stage shared a relatively stable connectivity pattern, while the patterns changed with transition to different processes. Meanwhile, eight cases of simulations indicated that networks in the ictal stage were more likely to generate rhythmic spikes. This indicated the existence of epileptogenic networks, which could enhance local excitability and facilitate synchronization. The removal of the EZ could correct these pathological networks and reduce the amount of spikes by at least 75%. This might be one reason why accurate resection could reduce or even suppress seizures. This study provides novel insights into epilepsy and surgical treatments from the network perspective. © 2018 Yang, Luan, Wang, Liu, Zhai and Wang.
+DA  - 2018///
+PY  - 2018
+DO  - 10.3389/fneur.2018.00143
+VL  - 9
+IS  - MAR
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044007075&doi=10.3389%2Ffneur.2018.00143&partnerID=40&md5=db58907fca5797455e19339f361115e5
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Does the thalamo-cortical synchrony play a role in seizure termination?
+AU  - Evangelista, E.
+AU  - Bénar, C.-G.
+AU  - Bonini, F.
+AU  - Carron, R.
+AU  - Colombet, B.
+AU  - Régis, J.
+AU  - Bartoloméi, F.
+T2  - Frontiers in Neurology
+AB  - The mechanisms underlying seizure termination are still unclear despite their therapeutic importance. We studied thalamo-cortical connectivity and synchrony in human mesial temporal lobe seizures in order to analyze their role in seizure termination. Twenty-two seizures from 10 patients with drug-resistant mesial temporal lobe epilepsy undergoing pre-surgical evaluation were analyzed using intracerebral recordings [stereoelectroencephalography (SEEG)]. We performed a measure of SEEG signal interdependencies (non-linear correlation), to estimate the functional connectivity between thalamus and cortical regions. Then, we derived synchronization indices, namely global, thalamic, mesio-temporal, and thalamo-mesio temporal index at the onset and the end of seizures. In addition, an estimation of thalamic "outputs and inputs" connectivity was proposed. Thalamus was consistently involved in the last phase of all analyzed seizures and thalamic synchronization index was significantly more elevated at the end of seizure than at the onset. The global synchronization index at the end of seizure negatively correlated with seizure duration (p = 0.045) and in the same way the thalamic synchronization index showed an inverse tendency with seizure duration. Six seizures out of twenty-two displayed a particular thalamo-cortical spike-and-wave pattern at the end. They were associated to higher values of all synchronization indices and outputs from thalamus (p = 0.0079). SWP seizures displayed a higher and sustained increase of cortical and thalamo-cortical synchronization with a stronger participation of thalamic outputs. We suggest that thalamo-cortical oscillations might contribute to seizure termination via modulation of cortical synchronization. In the subgroup of SWP seizures, thalamus may exert a control on temporal lobe structures by inducing a stable hypersynchronization that ultimately leads to seizure termination. © 2015 Evangelista, Bénar, Bonini, Carron, Colombet, Régis and Bartolomei.
+DA  - 2015///
+PY  - 2015
+DO  - 10.3389/fneur.2015.00192
+VL  - 6
+IS  - SEP
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84944727889&doi=10.3389%2Ffneur.2015.00192&partnerID=40&md5=d83eb1f09e4fa33cbc1bc4ca661a14fd
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Interictal functional connectivity of human epileptic networks assessed by intracerebral EEG and BOLD signal fluctuations
+AU  - Bettus, G.
+AU  - Ranjeva, J.P.
+AU  - Wendling, F.
+AU  - Bénar, C.-G.
+AU  - Confort-Gouny, S.
+AU  - Régis, J.
+AU  - Chauvel, P.
+AU  - Cozzone, P.J.
+AU  - Lemieux, L.
+AU  - Bartoloméi, F.
+AU  - Guye, M.
+T2  - PLOS ONE
+AB  - In this study, we aimed to demonstrate whether spontaneous fluctuations in the blood oxygen level dependent (BOLD) signal derived from resting state functional magnetic resonance imaging (fMRI) reflect spontaneous neuronal activity in pathological brain regions as well as in regions spared by epileptiform discharges. This is a crucial issue as coherent fluctuations of fMRI signals between remote brain areas are now widely used to define functional connectivity in physiology and in pathophysiology. We quantified functional connectivity using non-linear measures of cross-correlation between signals obtained from intracerebral EEG (iEEG) and resting-state functional MRI (fMRI) in 5 patients suffering from intractable temporal lobe epilepsy (TLE). Functional connectivity was quantified with both modalities in areas exhibiting different electrophysiological states (epileptic and non affected regions) during the interictal period. Functional connectivity as measured from the iEEG signal was higher in regions affected by electrical epileptiform abnormalities relative to non-affected areas, whereas an opposite pattern was found for functional connectivity measured from the BOLD signal. Significant negative correlations were found between the functional connectivities of iEEG and BOLD signal when considering all pairs of signals (theta, alpha, beta and broadband) and when considering pairs of signals in regions spared by epileptiform discharges (in broadband signal). This suggests differential effects of epileptic phenomena on electrophysiological and hemodynamic signals and/or an alteration of the neurovascular coupling secondary to pathological plasticity in TLE even in regions spared by epileptiform discharges. In addition, indices of directionality calculated from both modalities were consistent showing that the epileptogenic regions exert a significant influence onto the non epileptic areas during the interictal period. This study shows that functional connectivity measured by iEEG and BOLD signals give complementary but sometimes inconsistent information in TLE. © 2011 Bettus et al.
+DA  - 2011///
+PY  - 2011
+DO  - 10.1371/journal.pone.0020071
+VL  - 6
+IS  - 5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79956277244&doi=10.1371%2Fjournal.pone.0020071&partnerID=40&md5=f4a58ab7f5e26b0c30137c390a9142bd
+DB  - Scopus
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - NREM sleep is the state of vigilance that best identifies the epileptogenic zone in the interictal electroencephalogram
+AU  - Klimes, P
+AU  - Cimbalnik, J
+AU  - Brazdil, M
+AU  - Hall, J
+AU  - Dubeau, F
+AU  - Gotman, J
+AU  - Frauscher, B
+T2  - EPILEPSIA
+AB  - Objective: Interictal epileptiform anomalies such as epileptiform discharges or high-frequency oscillations show marked variations across the sleep-wake cycle. This study investigates which state of vigilance is the best to localize the epileptogenic zone (EZ) in interictal intracranial electroencephalography (EEG). Methods: Thirty patients with drug-resistant epilepsy undergoing stereo-EEG (SEEG)/sleep recording and subsequent open surgery were included; 13 patients (43.3%) had good surgical outcome (Engel class I). Sleep was scored following standard criteria. Multiple features based on the interictal EEG (interictal epileptiform discharges, high-frequency oscillations, univariate and bivariate features) were used to train a support vector machine (SVM) model to classify SEEG contacts placed in the EZ. The performance of the algorithm was evaluated by the mean area under the receiver-operating characteristic (ROC) curves (AUCs) and positive predictive values (PPVs) across 10-minute sections of wake, non-rapid eye movement sleep (NREM) stages N2 and N3, REM sleep, and their combination. Results: Highest AUCs were achieved in NREM sleep stages N2 and N3 compared to wakefulness and REM (P <.01). There was no improvement when using a combination of all four states (P >.05); the best performing features in the combined state were selected from NREM sleep. There were differences between good (Engel I) and poor (Engel II-IV) outcomes in PPV (P <.05) and AUC (P <.01) across all states. The SVM multifeature approach outperformed spikes and high-frequency oscillations (P <.01) and resulted in results similar to those of the seizure-onset zone (SOZ; P >.05). Significance: Sleep improves the localization of the EZ with best identification obtained in NREM sleep stages N2 and N3. Results based on the multifeature classification in 10 minutes of NREM sleep were not different from the results achieved by the SOZ based on 12.7 days of seizure monitoring. This finding might ultimately result in a more time-efficient intracranial presurgical investigation of focal epilepsy.
+DA  - 2019/12//undefined
+PY  - 2019
+DO  - 10.1111/epi.16377
+VL  - 60
+IS  - 12
+SP  - 2404
+EP  - 2415
+SN  - 0013-9580
+AN  - WOS:000545973100008
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Recurrence quantification analysis of dynamic brain networks
+AU  - Lopes, MA
+AU  - Zhang, JX
+AU  - Krzeminski, D
+AU  - Hamandi, K
+AU  - Chen, Q
+AU  - Livi, L
+AU  - Masuda, N
+T2  - EUROPEAN JOURNAL OF NEUROSCIENCE
+AB  - Evidence suggests that brain network dynamics are a key determinant of brain function and dysfunction. Here we propose a new framework to assess the dynamics of brain networks based on recurrence analysis. Our framework uses recurrence plots and recurrence quantification analysis to characterize dynamic networks. For resting-state magnetoencephalographic dynamic functional networks (dFNs), we have found that functional networks recur more quickly in people with epilepsy than in healthy controls. This suggests that recurrence of dFNs may be used as a biomarker of epilepsy. For stereo electroencephalography data, we have found that dFNs involved in epileptic seizures emerge before seizure onset, and recurrence analysis allows us to detect seizures. We further observe distinct dFNs before and after seizures, which may inform neurostimulation strategies to prevent seizures. Our framework can also be used for understanding dFNs in healthy brain function and in other neurological disorders besides epilepsy.
+DA  - 2021/02//undefined
+PY  - 2021
+DO  - 10.1111/ejn.14960
+VL  - 53
+IS  - 4
+SP  - 1040
+EP  - 1059
+SN  - 0953-816X
+AN  - WOS:000568711800001
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Interictal SEEG Resting-State Connectivity Localizes the Seizure Onset Zone and Predicts Seizure Outcome
+AU  - Jiang, HT
+AU  - Kokkinos, V
+AU  - Ye, S
+AU  - Urban, A
+AU  - Bagic, A
+AU  - Richardson, M
+AU  - He, B
+T2  - ADVANCED SCIENCE
+AB  - Localization of epileptogenic zone currently requires prolonged intracranial recordings to capture seizure, which may take days to weeks. The authors developed a novel method to identify the seizure onset zone (SOZ) and predict seizure outcome using short-time resting-state stereotacticelectroencephalography (SEEG) data. In a cohort of 27 drug-resistant epilepsy patients, the authors estimated the information flow via directional connectivity and inferred the excitation-inhibition ratio from the 1/f power slope. They hypothesized that the antagonism of information flow at multiple frequencies between SOZ and non-SOZ underlying the relatively stable epilepsy resting state could be related to the disrupted excitation-inhibition balance. They found flatter 1/f power slope in non-SOZ regions compared to the SOZ, with dominant information flow from non-SOZ to SOZ regions. Greater differences in resting-state information flow between SOZ and non-SOZ regions are associated with favorable seizure outcome. By integrating a balanced random forest model with resting-state connectivity, their method localized the SOZ with an accuracy of 88% and predicted the seizure outcome with an accuracy of 92% using clinically determined SOZ. Overall, this study suggests that brief resting-state SEEG data can significantly facilitate the identification of SOZ and may eventually predict seizure outcomes without requiring long-term ictal recordings.
+DA  - 2022/05/12/
+PY  - 2022
+DO  - 10.1002/advs.202200887
+SN  - 2198-3844
+AN  - WOS:000793675900001
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Estimating global phase synchronization by quantifying multivariate mutual information and detecting network structure
+AU  - Li, ZH
+AU  - Xing, YY
+AU  - Wang, XY
+AU  - Cai, YL
+AU  - Zhou, XX
+AU  - Zhang, X
+T2  - NEURAL NETWORKS
+AB  - In neuroscience, phase synchronization (PS) is a crucial mechanism that facilitates information processing and transmission between different brain regions. Specifically, global phase synchronization (GPS) characterizes the degree of PS among multivariate neural signals. In recent years, several GPS methods have been proposed. However, they primarily focus on the collective synchronization behavior of multivariate neural signals, while neglecting the structural difference between oscillator networks. Therefore, in this paper, we introduce a method named total correlation-based synchronization (TCS) to quantify GPS intensity by examining network organization. To evaluate the performance of TCS, we conducted simulations using the Ro<spacing diaeresis>ssler model and compared it to three existing methods: circular omega complexity, hyper-torus synchrony, and symbolic phase difference and permutation entropy. The results indicate that TCS outperforms the other methods at distinguishing the GPS intensity between networks with similar structures. And it offers insight into the separation and integration behavior of signals during synchronization. Furthermore, to validate this method with experimental data, TCS was applied to analyze the GPS variation of multichannel stereo-electroencephalography (SEEG) signals recorded from onset zones of patients with temporal lobe epilepsy. It was observed that the termination of seizures was associated with the increased GPS and the integration of brain regions. Taken together, TCS offers an alternative way to measure GPS of multivariate signals, which may shed new lights on the mechanism of brain functions and neurological disorders, such as learning, memory, epilepsy, and Alzheimer's disease.
+DA  - 2025/03//undefined
+PY  - 2025
+DO  - 10.1016/j.neunet.2024.106984
+VL  - 183
+SN  - 0893-6080
+AN  - WOS:001372479600001
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Multiscale Functional Clustering Reveals Frequency Dependent Brain Organization in Type II Focal Cortical Dysplasia With Sleep Hypermotor Epilepsy
+AU  - Coelli, S
+AU  - Maggioni, E
+AU  - Rubino, A
+AU  - Campana, C
+AU  - Nobili, L
+AU  - Bianchi, AM
+T2  - IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING
+AB  - Objective: A multiscale functional clustering approach is proposed to investigate the organization of the epileptic networks during different sleep stages and in relation with the occurrence of seizures. Method: Stereo-electroencephalographic signals from seven pharmaco-resistant epileptic patients (focal cortical dysplasia type II) were analyzed. The discrete wavelet transform provided a multiscale framework on which a data-driven functional clustering procedure was applied, based on multivariate measures of integration and mutual information. The most interacting functional clusters (FCs) within the sampled brain areas were extracted. Results: FCs characterized by strongly integrated activity were observed mostly in the beta and alpha frequency bands, immediately before seizure onset and in deep sleep stages. These FCs generally included the electrodes from the epileptogenic zone. Furthermore, repeatable patterns were found across ictal events in the same patient. Conclusion: In line with previous studies, our findings provide evidence of the important role of beta and alpha activity in seizures generation and support the relation between epileptic activity and sleep stages. Significance: Despite the small number of subjects included in the study, the present results suggest that the proposed multiscale functional clustering approach is a useful tool for the identification of the frequency-dependent mechanisms underlying seizure generation.
+DA  - 2019/10//undefined
+PY  - 2019
+DO  - 10.1109/TBME.2019.2896893
+VL  - 66
+IS  - 10
+SP  - 2831
+EP  - 2839
+SN  - 0018-9294
+AN  - WOS:000487192000013
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Interictal intracranial EEG asymmetry lateralizes temporal lobe epilepsy
+AU  - Conrad, EC
+AU  - Lucas, A
+AU  - Ojemann, WKS
+AU  - Aguila, CA
+AU  - Mojena, M
+AU  - Larocque, JJ
+AU  - Pattnaik, AR
+AU  - Gallagher, R
+AU  - Greenblatt, A
+AU  - Tranquille, A
+AU  - Parashos, A
+AU  - Gleichgerrcht, E
+AU  - Bonilha, L
+AU  - Litt, B
+AU  - Sinha, SR
+AU  - Ungar, L
+AU  - Davis, KA
+T2  - BRAIN COMMUNICATIONS
+AB  - Patients with drug-resistant temporal lobe epilepsy often undergo intracranial EEG recording to capture multiple seizures in order to lateralize the seizure onset zone. This process is associated with morbidity and often ends in postoperative seizure recurrence. Abundant interictal (between-seizure) data are captured during this process, but these data currently play a small role in surgical planning. Our objective was to predict the laterality of the seizure onset zone using interictal intracranial EEG data in patients with temporal lobe epilepsy. We performed a retrospective cohort study (single-centre study for model development; two-centre study for model validation). We studied patients with temporal lobe epilepsy undergoing intracranial EEG at the University of Pennsylvania (internal cohort) and the Medical University of South Carolina (external cohort) between 2015 and 2022. We developed a logistic regression model to predict seizure onset zone laterality using several interictal EEG features derived from recent publications. We compared the concordance between the model-predicted seizure onset zone laterality and the side of surgery between patients with good and poor surgical outcomes. Forty-seven patients (30 female; ages 20-69; 20 left-sided, 10 right-sided and 17 bilateral seizure onsets) were analysed for model development and internal validation. Nineteen patients (10 female; ages 23-73; 5 left-sided, 10 right-sided, 4 bilateral) were analysed for external validation. The internal cohort cross-validated area under the curve for a model trained using spike rates was 0.83 for a model predicting left-sided seizure onset and 0.68 for a model predicting right-sided seizure onset. Balanced accuracies in the external cohort were 79.3% and 78.9% for the left- and right-sided predictions, respectively. The predicted concordance between the laterality of the seizure onset zone and the side of surgery was higher in patients with good surgical outcome. We replicated the finding that right temporal lobe epilepsy was harder to distinguish in a separate modality of resting-state functional MRI. In conclusion, interictal EEG signatures are distinct across seizure onset zone lateralities. Left-sided seizure onsets are easier to distinguish than right-sided onsets. A model trained on spike rates accurately identifies patients with left-sided seizure onset zones and predicts surgical outcome. A potential clinical application of these findings could be to either support or oppose a hypothesis of unilateral temporal lobe epilepsy when deciding to pursue surgical resection or ablation as opposed to device implantation.
+Conrad et al. report that quantitative analysis of interictal intracranial EEG data predicts the laterality of the seizure onset zone in patients with drug-resistant temporal lobe epilepsy. Left-sided seizure onsets are easier to distinguish, and a simple model using just spike rates outperforms a more complex model.
+Graphical Abstract
+DA  - 2024/09/04/
+PY  - 2024
+DO  - 10.1093/braincomms/fcae284
+VL  - 6
+IS  - 5
+SN  - 2632-1297
+AN  - WOS:001307963300001
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Insulo-opercular cortex generates oroalimentary automatisms in temporal seizures
+AU  - Aupy, J
+AU  - Noviawaty, I
+AU  - Krishnan, B
+AU  - Suwankpakdee, P
+AU  - Bulacio, J
+AU  - Gonzalez-Martinez, J
+AU  - Najm, I
+AU  - Chauvel, P
+T2  - EPILEPSIA
+AB  - ObjectiveOroalimentary automatisms (OAAs) resembling normal alimentary behavior are stereotyped complex movements that may occur during epileptic seizures. They are considered common clinical signs in temporal lobe seizures, but their anatomofunctional mechanisms are not established. We took the opportunity of presurgical intracerebral recordings to study the relations between the occurrence of OAAs and temporal/spatial features of ictal activities.
+MethodsWe retrospectively reviewed patients with medically intractable medial temporal lobe epilepsy who underwent stereoelectroencephalography (SEEG) at Cleveland Clinic between 2009 and 2016. Patients presenting oroalimentary automatisms during seizures, with intracerebral electrodes spanning temporal and extratemporal areas, were selected. SEEG-clinical correlations with latency measurements were done. Coherence analyses were performed on regions of interest as defined by the areas involved at the onset of oroalimentary automatisms.
+ResultsFifteen patients (115 seizures) were analyzed. Sixty-nine seizures exhibited overt oroalimentary automatisms. Only insulo-opercular cortex ictal involvement was consistently related to the occurrence of OAAs, with a linear correlation between OAA onset and ictal oscillatory activity onset in the insulo-opercular cortex. SEEG signal processing showed an increase in theta coherence preceding oroalimentary automatism onset between mediobasal-temporal structures and insulo-opercular cortex, as well as between the 2 insulo-opercular regions.
+SignificanceThe underlying mechanism for the production of oroalimentary automatisms in medial temporal seizures is based on temporal-insulo-opercular theta coherence leading to a synchronous state generating rhythmic patterned outputs from the cortical masticatory area.
+DA  - 2018/03//undefined
+PY  - 2018
+DO  - 10.1111/epi.14011
+VL  - 59
+IS  - 3
+SP  - 583
+EP  - 594
+SN  - 0013-9580
+AN  - WOS:000427008500010
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Multilayer brain networks can identify the epileptogenic zone and seizure dynamics
+AU  - Shahabi, H
+AU  - Nair, DR
+AU  - Leahy, RM
+T2  - ELIFE
+AB  - Seizure generation, propagation, and termination occur through spatiotemporal brain networks. In this paper, we demonstrate the significance of large-scale brain interactions in high-frequency (80-200Hz) for the identification of the epileptogenic zone (EZ) and seizure evolution. To incorporate the continuity of neural dynamics, here we have modeled brain connectivity constructed from stereoelectroencephalography (SEEG) data during seizures using multilayer networks. After introducing a new measure of brain connectivity for temporal networks, named multilayer eigenvector centrality (mlEVC), we applied a consensus hierarchical clustering on the developed model to identify the EZ as a cluster of nodes with distinctive brain connectivity in the ictal period. Our algorithm could successfully predict electrodes inside the resected volume as EZ for 88% of participants, who all were seizure-free for at least 12 months after surgery. Our findings illustrated significant and unique desynchronization between EZ and the rest of the brain in the early to mid-seizure. We showed that aging and the duration of epilepsy intensify this desynchronization, which can be the outcome of abnormal neuroplasticity. Additionally, we illustrated that seizures evolve with various network topologies, confirming the existence of different epileptogenic networks in each patient. Our findings suggest not only the importance of early intervention in epilepsy but possible factors that correlate with disease severity. Moreover, by analyzing the propagation patterns of different seizures, we demonstrate the necessity of collecting sufficient data for identifying epileptogenic networks.
+DA  - 2023/03/17/
+PY  - 2023
+DO  - 10.7554/eLife.68531
+VL  - 12
+SN  - 2050-084X
+AN  - WOS:000961422700001
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - How can we explain the frontal presentation of insular lobe epilepsy? The impact of non-linear analysis of insular seizures
+AU  - Hagiwara, K
+AU  - Jung, JL
+AU  - Bouet, R
+AU  - Abdallah, C
+AU  - Guénot, M
+AU  - Garcia-Larrea, L
+AU  - Mauguière, F
+AU  - Rheims, S
+AU  - Isnard, J
+T2  - CLINICAL NEUROPHYSIOLOGY
+AB  - Objective: For a decade it has been known that the insular lobe epilepsy can mimic frontal lobe epilepsy. We aimed to clarify the pattern of functional coupling occurring during the frontal presentation.
+Methods: We analyzed five insular lobe epilepsy patients. Frontal semiology was predominant for three of them, whereas insular semiology was predominant for the two others. We applied the non-linear regression analysis to stereoelectroencephalography-recorded seizures. A directed functional coupling index was calculated during clonic discharge periods that were accompanied either with frontal or insular semiology.
+Results: We found significant functional coupling between the insula and mesial frontal/cingulate regions, with the former being a leader region for seizures propagation. Extra-insular regions showed significantly less or even no coupling with the mesial hemispheric regions. The three patients with frontal semiology showed strong couplings with the mesial frontal as well as cingulate regions, including the medial orbitofrontal cortex, pre-SMA/SMA, and the anterior to posterior cingulate. The two patients with the insular semiology only showed couplings between the insula and cingulate regions.
+Conclusions: The frontal semiology was expressed by strong functional couplings between the insula and mesial frontal regions.
+Significance: The insular origin of seizure should be considered in cryptogenic mesial frontal epilepsies. (C) 2017 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved.
+DA  - 2017/05//undefined
+PY  - 2017
+DO  - 10.1016/j.clinph.2017.01.022
+VL  - 128
+IS  - 5
+SP  - 780
+EP  - 791
+SN  - 1388-2457
+AN  - WOS:000402462700013
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - Identifying dynamical characteristics of directed functional epilepsy networks from eigenmodes
+AU  - Hou, SG
+AU  - Wang, HD
+AU  - Yu, Y
+AU  - Liu, XT
+AU  - Wang, QY
+T2  - SCIENCE CHINA-TECHNOLOGICAL SCIENCES
+AB  - Epilepsy often accompanies cognitive impairments, which are featured by dynamics of EEG data. The eigenmode method, combined with functional networks derived from EEG data, provides a valid method to investigate dynamical characteristics of the brain's integration and segregation while establishing connections with cognitive function. Based on the transfer entropy method, we utilize the eigenmode approach to analyze SEEG data from epilepsy patients, which extends the theory of eigenmode hierarchical modules to directed functional networks. This work mainly refines and employs the dynamical characteristics from the eigenmodes of the epilepsy directional functional networks, including integration and segregation theories and proposes the network's functional recombination rate feature. Results indicate that directed functional networks constructed through transfer entropy can also manifest the phenomenon of hierarchical modules in brain functional modes. In addition, during epileptic seizures, higher layers of overall integration features and increased functional recombination rates are observed. Furthermore, alterations in the aggregation of prominent nodes within the eigenmodes of epilepsy patients are noted during seizure episodes. This paper provides an improved method for the analysis of dynamical features of directed epilepsy network, which may potentially provide help and new understanding for the analysis of functional features of epilepsy.
+DA  - 2025/05//undefined
+PY  - 2025
+DO  - 10.1007/s11431-024-2828-0
+VL  - 68
+IS  - 5
+SN  - 1674-7321
+AN  - WOS:001466262500007
+KW  - Check
+KW  - cited
+ER  - 
+
+TY  - JOUR
+TI  - EEG signature orchestrating expression of ictal behavior in mesial temporal lobe epilepsy
+AU  - He, CM
+AU  - Hu, WH
+AU  - Xiong, K
+AU  - Ye, LQ
+AU  - Ye, HY
+AU  - Hu, LL
+AU  - Ge, Y
+AU  - Wang, M
+AU  - Chen, C
+AU  - Jin, B
+AU  - Xu, CL
+AU  - Wang, Y
+AU  - Xu, S
+AU  - Ding, Y
+AU  - Wu, YC
+AU  - Jiang, HJ
+AU  - Zhu, JM
+AU  - Ding, MP
+AU  - Li, WL
+AU  - Zhang, K
+AU  - Wang, S
+AU  - Wang, S
+T2  - CLINICAL NEUROPHYSIOLOGY
+AB  - Objectives: We investigated EEG features differentiating clinical seizures (CSs) from subclinical seizures (SCSs) to explore the mechanisms underlying the generation of ictal behavior in mesial temporal lobe epilepsy (mTLE). Methods: Peri-ictal state of power spectral density (PSD) within seizure onset zone (SOZ) and propagation zone (PZ) were compared between SCSs and CSs. Functional connectivity was analyzed using the nonlinear correlation coefficient h2, outgoing links (OUT) and ingoing links (IN). The EEG epochs of CSs-early part and SCSs were equally divided into four segments to reveal dynamic EEG changes. Results: During pre-ictal state, PSD at 30-80 Hz in SOZ was higher in CSs than in SCSs. The preictal OUT and IN values in SOZ at 30-80 Hz were greater in CSs than in SCSs. During CSs-early part, PSD displayed an initial increase in SOZ but a late increase in PZ, with enhanced high-frequency activity in temporal regions and increased low-frequency activity in insula. Conclusion: The enhanced pre-ictal gamma activity within the epileptic network was able to distinguish CSs from SCSs. The unique temporospatial alterations within the epileptic network drive the expression of ictal behavior in mTLE. Significance: The distinct EEG features between SCSs and CSs offer transformative insights into the mechanisms driving ictal behavior.
+DA  - 2025/03//undefined
+PY  - 2025
+DO  - 10.1016/j.clinph.2024.12.029
+VL  - 171
+SP  - 124
+EP  - 132
+SN  - 1388-2457
+AN  - WOS:001422151700001
+KW  - Check
+KW  - cited
+ER  - 
+
